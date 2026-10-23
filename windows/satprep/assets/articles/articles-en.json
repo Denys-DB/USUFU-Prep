@@ -1,0 +1,1910 @@
+{
+ "version": 1,
+ "articles": [
+  {
+   "id": "boundaries",
+   "subject": "readingWriting",
+   "domain": "Standard English Conventions",
+   "skills": [
+    "Boundaries"
+   ],
+   "title": "Where sentences begin and end",
+   "summary": "Commas, semicolons, colons and dashes — and the one test that settles most of them.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "Nearly every Boundaries question is asking one thing: is each side of this punctuation mark a complete sentence? Answer that first and most of the choices fall away."
+    },
+    {
+     "kind": "rule",
+     "text": "A complete sentence has a subject and a verb and can stand on its own. Two complete sentences cannot be joined by a comma alone."
+    },
+    {
+     "kind": "heading",
+     "text": "The four joins"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Full stop or semicolon — both sides complete. A semicolon says the two thoughts are closely related; a full stop does not.",
+      "Comma + and/but/or/so/for/nor/yet — both sides complete.",
+      "Colon — the left side must be complete; the right side can be a list, a phrase, or another sentence. A colon promises an explanation of what came before.",
+      "Dash — like a colon but less formal. A pair of dashes works like a pair of commas."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "heading",
+     "text": "The mistake the test is looking for"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Joining two complete sentences with only a comma is called a comma splice, and it is the single commonest wrong answer in this domain. If you can put a full stop where the comma is and both halves still read as sentences, the comma is wrong on its own."
+    },
+    {
+     "kind": "example",
+     "text": "The experiment produced clear results, the team published within a month.",
+     "items": [
+      "Left side: “The experiment produced clear results” — complete.",
+      "Right side: “the team published within a month” — also complete.",
+      "Two complete sentences, so a comma alone will not do."
+     ],
+     "answer": "Use a semicolon, or a full stop, or add “and” after the comma."
+    },
+    {
+     "kind": "heading",
+     "text": "Commas that are not joins"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Around extra information you could lift out: “The report, published in May, ran to 90 pages.” Take the middle out and the sentence still works.",
+      "After an introductory phrase: “After the storm, the road reopened.”",
+      "Between items in a list."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "rule",
+     "text": "If you can remove the words between two commas and still have a sentence, the commas are right. If removing them breaks the sentence, they are wrong."
+    },
+    {
+     "kind": "paragraph",
+     "text": "One more: never put a single comma between a subject and its verb. “The scientist who led the study, published her results” is wrong — nothing separates a subject from what it does."
+    }
+   ]
+  },
+  {
+   "id": "form-structure-sense",
+   "subject": "readingWriting",
+   "domain": "Standard English Conventions",
+   "skills": [
+    "Form, Structure, and Sense"
+   ],
+   "title": "Verbs, pronouns and agreement",
+   "summary": "Making the parts of a sentence match: number, tense, and what a pronoun points at.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "These questions are about agreement. Something in the sentence has to match something else, and the wrong answers are the ones where it does not."
+    },
+    {
+     "kind": "heading",
+     "text": "Subject and verb"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Find the subject before you pick the verb. The test hides the subject behind other words on purpose."
+    },
+    {
+     "kind": "example",
+     "text": "The collection of letters written by the two scientists (was / were) donated to the library.",
+     "items": [
+      "Strip the middle: “written by the two scientists” describes the letters, not the subject.",
+      "The subject is “The collection” — one collection."
+     ],
+     "answer": "was donated"
+    },
+    {
+     "kind": "rule",
+     "text": "Words between the subject and the verb never change the subject. Cross them out and read what is left."
+    },
+    {
+     "kind": "heading",
+     "text": "Pronouns"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "A pronoun must match what it stands for in number: one researcher → she or he, not they-as-plural; the committee → it.",
+      "It must be clear what it stands for. If two nouns could both be “it”, the sentence needs the noun back.",
+      "its / it’s: “it’s” is only ever “it is”. The possessive has no apostrophe.",
+      "their / there / they’re, whose / who’s — the same test."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "heading",
+     "text": "Tense"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Keep to one time frame unless the sentence gives a reason to move. A date, a phrase like “by 1920”, or another verb usually tells you which frame the sentence is in."
+    },
+    {
+     "kind": "heading",
+     "text": "Apostrophes"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "one scientist’s notes — belongs to one",
+      "two scientists’ notes — belongs to more than one",
+      "the scientists arrived — plural, no apostrophe anywhere"
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "rule",
+     "text": "Plural, possessive, or both? Decide that first, then place the apostrophe. Most wrong answers are a plural wearing an apostrophe it does not need."
+    }
+   ]
+  },
+  {
+   "id": "words-in-context",
+   "subject": "readingWriting",
+   "domain": "Craft and Structure",
+   "skills": [
+    "Words in Context"
+   ],
+   "title": "What a word means here",
+   "summary": "The commonest word is rarely the answer; the sentence around it decides.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "These questions never ask what a word usually means. They ask what it means in this sentence, and the sentence always contains the evidence."
+    },
+    {
+     "kind": "rule",
+     "text": "Cover the four choices. Read the sentence and put your own word in the blank. Then find the choice closest to yours."
+    },
+    {
+     "kind": "paragraph",
+     "text": "Doing that first is the whole technique. Read the choices first and one of them will sound familiar, and familiar is exactly what the test is baiting."
+    },
+    {
+     "kind": "heading",
+     "text": "Where the evidence is"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "A contrast word — but, however, although, yet — tells you the missing word opposes what came before.",
+      "A continuation word — and, moreover, indeed — tells you it agrees.",
+      "A colon, dash or comma often introduces a definition of the word you need.",
+      "The rest of the passage: if the author is critical throughout, the word is unlikely to be praise."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "example",
+     "text": "Her account of the expedition was ______: she described the weather, the equipment and the route in detail, but said almost nothing about why they went.",
+     "items": [
+      "“but said almost nothing about why” marks a limit.",
+      "So the account is complete about some things and not others.",
+      "Your own word: “detailed but narrow”, or “thorough about the surface”."
+     ],
+     "answer": "A choice meaning “selective” fits: thorough about some things, silent about others. “Meticulous” keeps the detail and drops the limit; “vague” or “dishonest” fits neither."
+    },
+    {
+     "kind": "heading",
+     "text": "Second meanings"
+    },
+    {
+     "kind": "paragraph",
+     "text": "The test likes ordinary words used in less ordinary senses — “qualify” meaning to limit, “yield” meaning to produce, “reserve” meaning restraint. If the everyday meaning makes the sentence odd, look for the second one."
+    }
+   ]
+  },
+  {
+   "id": "text-structure-purpose",
+   "subject": "readingWriting",
+   "domain": "Craft and Structure",
+   "skills": [
+    "Text Structure and Purpose"
+   ],
+   "title": "Why the text is built this way",
+   "summary": "What a passage is doing, and what one part of it does for the whole.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "Two shapes of question live here. One asks about the whole text: what is the author’s main purpose? The other points at a sentence and asks what that sentence does."
+    },
+    {
+     "kind": "rule",
+     "text": "Purpose is a verb. Before looking at the choices, finish this out loud: “The author is ______ing.” Explaining, arguing, comparing, correcting, illustrating."
+    },
+    {
+     "kind": "heading",
+     "text": "The underlined-sentence question"
+    },
+    {
+     "kind": "paragraph",
+     "text": "When a question points at one sentence, the answer is almost never what the sentence says — it is what the sentence does for the argument around it. Read the sentence before it and the sentence after it. The answer lives in that relationship."
+    },
+    {
+     "kind": "list",
+     "items": [
+      "It introduces the problem the rest of the text answers.",
+      "It gives an example of the claim just made.",
+      "It raises an objection the author then answers.",
+      "It qualifies a claim that would otherwise be too strong."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "heading",
+     "text": "Wrong answers to expect"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "True, but about a different part of the text.",
+      "Describes the topic rather than the function.",
+      "Overstates: says the author “refutes” when they only “questions”."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "paragraph",
+     "text": "Watch the strength of the verb. A text that says “this may suggest” has not proved anything, and a choice saying it “demonstrates” is wrong for that reason alone."
+    }
+   ]
+  },
+  {
+   "id": "cross-text-connections",
+   "subject": "readingWriting",
+   "domain": "Craft and Structure",
+   "skills": [
+    "Cross-Text Connections",
+    "Cross-text Connections"
+   ],
+   "title": "Two texts, one question",
+   "summary": "How the second author would respond to the first — and how to find it fast.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "You get two short texts and one question about the relationship between them. The work is almost entirely in reading Text 2 with Text 1 in mind."
+    },
+    {
+     "kind": "rule",
+     "text": "Before reading the choices, write one sentence: what would Text 2’s author say about Text 1’s main claim? Agree, disagree, agree-with-a-limit, or say it is beside the point."
+    },
+    {
+     "kind": "heading",
+     "text": "The four relationships"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Text 2 agrees and adds evidence.",
+      "Text 2 disagrees outright.",
+      "Text 2 accepts the finding but rejects the explanation — the commonest and the most missed.",
+      "Text 2 says the question itself is the wrong one to ask."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "paragraph",
+     "text": "That third one is worth expecting. Two researchers often see the same data and read it differently, and the right answer says exactly that: the fact is accepted, the interpretation is not."
+    },
+    {
+     "kind": "heading",
+     "text": "Method"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Read Text 1. In your own words, what does it claim?",
+      "Read Text 2 looking only for whether it touches that claim.",
+      "Decide the relationship before reading any choice.",
+      "Reject any choice that puts a view in an author’s mouth that their text does not contain."
+     ],
+     "ordered": true
+    },
+    {
+     "kind": "paragraph",
+     "text": "A choice can be perfectly true of one text and still be wrong, because the question is about both."
+    }
+   ]
+  },
+  {
+   "id": "command-of-evidence",
+   "subject": "readingWriting",
+   "domain": "Information and Ideas",
+   "skills": [
+    "Command of Evidence"
+   ],
+   "title": "Which finding would support this?",
+   "summary": "Matching a claim to the evidence that would actually back it, from a text or from a table or a graph.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "This skill comes in two shapes: a text-based one, and one built on a table or a graph."
+    },
+    {
+     "kind": "rule",
+     "text": "Find the exact claim the question asks you to support. Underline it. The right answer supports that claim and no other."
+    },
+    {
+     "kind": "heading",
+     "text": "The text version"
+    },
+    {
+     "kind": "paragraph",
+     "text": "A hypothesis or a conclusion is stated, and you choose the finding that would most directly support it. Most wrong answers are related to the topic but do not touch the specific claim."
+    },
+    {
+     "kind": "example",
+     "text": "A researcher claims that a bird species learns its song from adults rather than being born knowing it.",
+     "items": [
+      "What would have to be true if learning were the source?",
+      "Birds raised without hearing adults would sing differently.",
+      "A finding about how loudly they sing, or how far the song carries, is beside the point."
+     ],
+     "answer": "The choice about birds raised in isolation."
+    },
+    {
+     "kind": "heading",
+     "text": "The chart version"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Read the axes and the units before the question. Then check the claim against the data one word at a time — the wrong answers are usually right about the shape and wrong about the number, or right about the number and wrong about which group it belongs to."
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Does the choice name the right group?",
+      "Does it get the direction right — more, less, unchanged?",
+      "Is the value actually on the chart, or has it been invented between two points?"
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "rule",
+     "text": "If the data does not say it, it is not evidence — however reasonable it sounds."
+    }
+   ]
+  },
+  {
+   "id": "central-ideas-details",
+   "subject": "readingWriting",
+   "domain": "Information and Ideas",
+   "skills": [
+    "Central Ideas and Details"
+   ],
+   "title": "The main idea, and the details under it",
+   "summary": "Telling the point of a passage from the things it happens to mention.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "One question type asks for the main idea of the whole text. The other asks what the text actually said about a particular thing. They are opposite mistakes: the first is missed by picking a detail, the second by picking the theme."
+    },
+    {
+     "kind": "rule",
+     "text": "The main idea has to cover the whole passage. If a choice is only true of one sentence, it is a detail, not the idea."
+    },
+    {
+     "kind": "heading",
+     "text": "Finding the main idea"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Read the first sentence and the last, then ask what the middle is doing between them. Most short passages state their point in one of those two places and spend the rest supporting it."
+    },
+    {
+     "kind": "heading",
+     "text": "Wrong answers to expect"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Too narrow — true of one paragraph only.",
+      "Too broad — true of the subject in general but not of this text.",
+      "Half right — the first clause matches and the second adds something the text never said.",
+      "Right idea, wrong attitude — the text is cautious and the choice is certain."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "paragraph",
+     "text": "That last one catches people. Check the temperature of the language as well as its content."
+    },
+    {
+     "kind": "heading",
+     "text": "Detail questions"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Go back and find the line. Do not answer from memory: these passages are short enough that the sentence you need is always locatable, and the test writes wrong answers that sound like what you would remember."
+    }
+   ]
+  },
+  {
+   "id": "inferences",
+   "subject": "readingWriting",
+   "domain": "Information and Ideas",
+   "skills": [
+    "Inferences"
+   ],
+   "title": "What follows from what is written",
+   "summary": "Completing a text logically — using only what is on the page.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "An inference question gives you a passage with a blank at the end and asks which choice most logically completes it. It is a logic question wearing reading clothes."
+    },
+    {
+     "kind": "rule",
+     "text": "The right answer follows necessarily from the text. Not likely, not reasonable — necessarily."
+    },
+    {
+     "kind": "heading",
+     "text": "Method"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Read to the blank and stop.",
+      "Say in your own words what the text has established.",
+      "Look for the word before the blank — “because”, “however”, “therefore”, “but” — it tells you the shape of what is missing.",
+      "Predict, then match."
+     ],
+     "ordered": true
+    },
+    {
+     "kind": "example",
+     "text": "The plants grew well in the greenhouse but poorly outdoors, even though both groups received the same water and nutrients. This suggests that ______",
+     "items": [
+      "Same water, same nutrients — so those are ruled out.",
+      "The difference must be something else the greenhouse controls.",
+      "Temperature, wind, light."
+     ],
+     "answer": "A choice naming a condition the greenhouse controls. A choice about water is ruled out by the text itself."
+    },
+    {
+     "kind": "heading",
+     "text": "The trap"
+    },
+    {
+     "kind": "paragraph",
+     "text": "The commonest wrong answer is true in the world but not established by this passage. Bring nothing in from outside. If you find yourself thinking “well, obviously”, check that the text actually said it."
+    }
+   ]
+  },
+  {
+   "id": "transitions",
+   "subject": "readingWriting",
+   "domain": "Expression of Ideas",
+   "skills": [
+    "Transitions"
+   ],
+   "title": "The word between two sentences",
+   "summary": "Contrast, cause, addition, example — and how to choose without reading the choices first.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "A transitions question hides the answer in plain sight: the relationship between the two sentences is already there, and the word just names it."
+    },
+    {
+     "kind": "rule",
+     "text": "Cover the choices. Read the sentence before and the sentence after. Decide the relationship in one word of your own — then find it."
+    },
+    {
+     "kind": "heading",
+     "text": "The families"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Contrast: however, nevertheless, on the other hand, still, by contrast",
+      "Result: therefore, thus, as a result, consequently",
+      "Addition: moreover, furthermore, in addition, also",
+      "Example: for example, for instance",
+      "Restating: in other words, that is",
+      "Concession then reversal: admittedly … however, granted … still"
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "paragraph",
+     "text": "Nearly every wrong answer is a word from the wrong family. Once you know the relationship you are usually choosing between one right word and three that mean something else entirely."
+    },
+    {
+     "kind": "heading",
+     "text": "Two that are confused"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "“However” marks contrast. “Therefore” marks result. A sentence that follows from the last one does not take “however”, however natural it sounds.",
+      "“In addition” adds something of the same kind. “For example” gives an instance of what was just said. They are not interchangeable."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "example",
+     "text": "The drug lowered blood pressure in every trial. ______, it produced side effects severe enough to end the study.",
+     "items": [
+      "First sentence: good news. Second: bad news.",
+      "The relationship is contrast."
+     ],
+     "answer": "However. Not “therefore” — the side effects do not follow from the drug working."
+    }
+   ]
+  },
+  {
+   "id": "rhetorical-synthesis",
+   "subject": "readingWriting",
+   "domain": "Expression of Ideas",
+   "skills": [
+    "Rhetorical Synthesis"
+   ],
+   "title": "Notes into one sentence",
+   "summary": "You are given bullet points and a goal. The goal decides the answer.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "These give you a student’s research notes and ask you to combine them to accomplish a stated goal. The notes are almost never the difficulty — the goal is."
+    },
+    {
+     "kind": "rule",
+     "text": "Read the goal twice, before the notes. Then read the choices asking one question only: does this do what the goal said?"
+    },
+    {
+     "kind": "heading",
+     "text": "Why that works"
+    },
+    {
+     "kind": "paragraph",
+     "text": "All four choices are usually true, and usually drawn from the notes. Only one does the job the question asked for. A choice can be accurate, well written, and wrong."
+    },
+    {
+     "kind": "heading",
+     "text": "Common goals, and what each needs"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "“Emphasize a similarity” — the sentence must mention both things and say they are alike.",
+      "“Introduce the study to someone unfamiliar with it” — needs the basic facts, not the conclusions.",
+      "“Present the finding and its significance” — needs both halves; a choice with only the finding is incomplete.",
+      "“Compare the two methods” — both methods, explicitly contrasted."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "paragraph",
+     "text": "When two choices both seem to fit, one of them almost always leaves out a required half. Go back to the goal and count the parts it asked for."
+    }
+   ]
+  },
+  {
+   "id": "linear-one-variable",
+   "subject": "math",
+   "domain": "Algebra",
+   "skills": [
+    "Linear equations in one variable"
+   ],
+   "title": "Solving for one unknown",
+   "summary": "Undo the operations in reverse, and know what “no solution” and “all values” look like.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "A linear equation in one variable has the variable to the first power only — no squares, no variable in a denominator. Solving is undoing, in reverse order."
+    },
+    {
+     "kind": "rule",
+     "text": "Whatever you do to one side, do to the other. Work outwards: undo addition before multiplication, brackets last."
+    },
+    {
+     "kind": "example",
+     "text": "3(2x − 4) + 5 = 23",
+     "items": [
+      "Subtract 5: 3(2x − 4) = 18",
+      "Divide by 3: 2x − 4 = 6",
+      "Add 4: 2x = 10",
+      "Divide by 2: x = 5"
+     ],
+     "answer": "x = 5"
+    },
+    {
+     "kind": "heading",
+     "text": "The two special answers"
+    },
+    {
+     "kind": "paragraph",
+     "text": "The SAT asks about these directly, so know them by sight."
+    },
+    {
+     "kind": "list",
+     "items": [
+      "**No solution**: the variables cancel and you are left with something false, like 4 = 7. The lines are parallel.",
+      "**Infinitely many solutions**: the variables cancel and you are left with something true, like 4 = 4. The two sides are the same equation written differently."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "example",
+     "text": "For what value of a does 4x + a = 4x + 9 have no solution?",
+     "items": [
+      "Subtract 4x from both sides: a = 9.",
+      "If a is anything other than 9 the statement is false for every x."
+     ],
+     "answer": "Any a ≠ 9. And if a = 9, every x works."
+    },
+    {
+     "kind": "rule",
+     "text": "When the x terms vanish, stop and read what is left. That sentence is the answer."
+    },
+    {
+     "kind": "heading",
+     "text": "When the variable is in a denominator"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Multiply both sides by the denominator to clear it, and then check the answer against the original: a value that makes a denominator zero is not a solution, however cleanly it comes out."
+    },
+    {
+     "kind": "example",
+     "text": "Solve 12/(x − 2) = 3",
+     "items": [
+      "Multiply both sides by (x − 2): 12 = 3(x − 2).",
+      "12 = 3x − 6, so 3x = 18.",
+      "x = 6, and 6 − 2 = 4, which is not zero — so it stands."
+     ],
+     "answer": "x = 6"
+    }
+   ]
+  },
+  {
+   "id": "linear-two-variables",
+   "subject": "math",
+   "domain": "Algebra",
+   "skills": [
+    "Linear equations in two variables"
+   ],
+   "title": "Lines: slope, intercepts and form",
+   "summary": "Reading a line off its equation, and writing the equation from what you are told.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "Almost every question here is easier in slope-intercept form, y = mx + b, where m is the slope and b is where the line crosses the y-axis."
+    },
+    {
+     "kind": "rule",
+     "text": "Slope is rise over run: (y₂ − y₁) / (x₂ − x₁). It is the amount y changes when x goes up by one."
+    },
+    {
+     "kind": "diagram",
+     "text": "slope",
+     "answer": "Rise over run — how much y changes when x goes up by one."
+    },
+    {
+     "kind": "heading",
+     "text": "The three forms"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Slope-intercept: y = mx + b. Best for reading slope and intercept.",
+      "Standard: Ax + By = C. Best for finding both intercepts — set x = 0, then y = 0.",
+      "Point-slope: y − y₁ = m(x − x₁). Best when you are given a point and a slope."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "example",
+     "text": "A line passes through (2, 5) and (6, 13). What is its equation?",
+     "items": [
+      "Slope: (13 − 5) / (6 − 2) = 8/4 = 2.",
+      "Use a point: y − 5 = 2(x − 2).",
+      "Expand: y = 2x + 1."
+     ],
+     "answer": "y = 2x + 1"
+    },
+    {
+     "kind": "heading",
+     "text": "Parallel and perpendicular"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Parallel lines have the same slope.",
+      "Perpendicular slopes multiply to −1: a slope of 3 is perpendicular to −1/3."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "heading",
+     "text": "In a word problem"
+    },
+    {
+     "kind": "paragraph",
+     "text": "The slope is the rate — per hour, per item, per year. The y-intercept is the starting amount, the value when nothing has happened yet. Naming those two out of the story is usually the whole question."
+    }
+   ]
+  },
+  {
+   "id": "linear-functions",
+   "subject": "math",
+   "domain": "Algebra",
+   "skills": [
+    "Linear functions"
+   ],
+   "title": "Functions, notation and what f(x) means",
+   "summary": "Reading function notation without panic, and what a linear function is doing.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "f(x) is not multiplication. It is a name for the output when the input is x. f(3) means: put 3 in, read the output."
+    },
+    {
+     "kind": "rule",
+     "text": "f(3) = 7 means the point (3, 7) is on the graph. Every statement about a function is a statement about a point."
+    },
+    {
+     "kind": "example",
+     "text": "If f(x) = 4x − 5, what is f(x + 2)?",
+     "items": [
+      "Replace every x with (x + 2): 4(x + 2) − 5.",
+      "Expand: 4x + 8 − 5."
+     ],
+     "answer": "4x + 3"
+    },
+    {
+     "kind": "heading",
+     "text": "Reading a graph"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "“f(x) = 0” asks where the graph crosses the x-axis.",
+      "“f(0)” asks where it crosses the y-axis.",
+      "“f(a) = b” asks for the point where the input is a."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "heading",
+     "text": "Linear means constant rate"
+    },
+    {
+     "kind": "paragraph",
+     "text": "A linear function changes by the same amount for every step in x. If a table shows equal steps in x and equal steps in y, it is linear, and the slope is one step of y over one step of x."
+    },
+    {
+     "kind": "example",
+     "text": "A table shows x = 1, 2, 3 and y = 7, 11, 15. Is it linear, and what is the rule?",
+     "items": [
+      "y goes up by 4 each time x goes up by 1 — constant, so linear.",
+      "Slope 4. At x = 1, y = 7, so b = 7 − 4 = 3."
+     ],
+     "answer": "y = 4x + 3"
+    }
+   ]
+  },
+  {
+   "id": "linear-inequalities",
+   "subject": "math",
+   "domain": "Algebra",
+   "skills": [
+    "Linear inequalities in one or two variables"
+   ],
+   "title": "Inequalities and the region they describe",
+   "summary": "One rule that catches everyone, and how to read a shaded graph.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "Inequalities solve exactly like equations, with one exception that the test asks about deliberately."
+    },
+    {
+     "kind": "rule",
+     "text": "Multiply or divide by a negative and the inequality sign flips. Nothing else flips it."
+    },
+    {
+     "kind": "example",
+     "text": "−3x + 7 > 19",
+     "items": [
+      "Subtract 7: −3x > 12",
+      "Divide by −3, and flip: x < −4"
+     ],
+     "answer": "x < −4"
+    },
+    {
+     "kind": "heading",
+     "text": "Two variables"
+    },
+    {
+     "kind": "paragraph",
+     "text": "An inequality in x and y describes a region, not a line. Graph the boundary as if it were an equation, then decide which side."
+    },
+    {
+     "kind": "list",
+     "items": [
+      "y > … or y < … — dashed line, the boundary is not included.",
+      "y ≥ … or y ≤ … — solid line, the boundary is included.",
+      "y greater — shade above. y less — shade below."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "diagram",
+     "text": "inequality-region",
+     "answer": "Dashed boundary, shaded above: y is strictly greater, so the line itself is not part of the answer."
+    },
+    {
+     "kind": "rule",
+     "text": "If you are unsure which side, test (0, 0) in the inequality. True means the origin's side is shaded."
+    },
+    {
+     "kind": "heading",
+     "text": "In word problems"
+    },
+    {
+     "kind": "paragraph",
+     "text": "“At least” means ≥. “At most” means ≤. “More than” and “fewer than” are strict. A budget question is almost always ≤, and a requirement question is almost always ≥."
+    }
+   ]
+  },
+  {
+   "id": "systems-linear",
+   "subject": "math",
+   "domain": "Algebra",
+   "skills": [
+    "Systems of two linear equations in two variables"
+   ],
+   "title": "Two equations, two unknowns",
+   "summary": "Substitution, elimination, and what the number of solutions tells you.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "A system asks for the point that satisfies both equations — where the two lines cross."
+    },
+    {
+     "kind": "heading",
+     "text": "Elimination"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Make one variable's coefficients opposite, then add the equations together."
+    },
+    {
+     "kind": "example",
+     "text": "2x + 3y = 12 and 4x − 3y = 6",
+     "items": [
+      "The y terms are already opposite. Add: 6x = 18.",
+      "x = 3. Substitute into the first: 6 + 3y = 12.",
+      "3y = 6, so y = 2."
+     ],
+     "answer": "(3, 2)"
+    },
+    {
+     "kind": "heading",
+     "text": "Substitution"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Better when one equation already has a variable alone. Solve for it, put it into the other."
+    },
+    {
+     "kind": "heading",
+     "text": "How many solutions"
+    },
+    {
+     "kind": "rule",
+     "text": "Same slope, different intercept → parallel → no solution. Same slope, same intercept → the same line → infinitely many. Different slopes → exactly one."
+    },
+    {
+     "kind": "paragraph",
+     "text": "The SAT asks this as a question about coefficients. Write both equations in y = mx + b and compare; that is faster than any rule about ratios, and harder to get backwards."
+    },
+    {
+     "kind": "example",
+     "text": "For what value of k does kx + 6y = 18 and 2x + 3y = 9 have infinitely many solutions?",
+     "items": [
+      "Second equation doubled: 4x + 6y = 18.",
+      "For the two to be the same equation, k must be 4."
+     ],
+     "answer": "k = 4"
+    }
+   ]
+  },
+  {
+   "id": "equivalent-expressions",
+   "subject": "math",
+   "domain": "Advanced Math",
+   "skills": [
+    "Equivalent expressions"
+   ],
+   "title": "Rewriting without changing the value",
+   "summary": "Factoring, expanding, and the exponent rules the test leans on.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "These questions give you an expression and ask for another form of it. Nothing is being solved; it is being rewritten."
+    },
+    {
+     "kind": "heading",
+     "text": "Exponent rules"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "xᵃ · xᵇ = xᵃ⁺ᵇ",
+      "xᵃ / xᵇ = xᵃ⁻ᵇ",
+      "(xᵃ)ᵇ = xᵃᵇ",
+      "x⁻ᵃ = 1/xᵃ",
+      "x^(1/2) = √x, and x^(a/b) = ᵇ√(xᵃ)",
+      "x⁰ = 1 for any x ≠ 0"
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "heading",
+     "text": "The three factorings worth knowing by sight"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "a² − b² = (a + b)(a − b) — difference of squares",
+      "a² + 2ab + b² = (a + b)²",
+      "a² − 2ab + b² = (a − b)²"
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "example",
+     "text": "Simplify (x² − 9) / (x + 3)",
+     "items": [
+      "x² − 9 is a difference of squares: (x + 3)(x − 3).",
+      "The (x + 3) cancels."
+     ],
+     "answer": "x − 3, for x ≠ −3"
+    },
+    {
+     "kind": "rule",
+     "text": "When a fraction of polynomials looks unpleasant, factor the top and the bottom first. Something almost always cancels — that is why the question was set."
+    },
+    {
+     "kind": "paragraph",
+     "text": "Watch the excluded value. Canceling (x + 3) is only legal when x ≠ −3, and the test sometimes asks about exactly that point."
+    },
+    {
+     "kind": "heading",
+     "text": "Negative and fractional exponents"
+    },
+    {
+     "kind": "paragraph",
+     "text": "These come up more than most students expect, and they are the same rule read backwards."
+    },
+    {
+     "kind": "list",
+     "items": [
+      "x⁻² = 1/x², so a negative exponent is a reciprocal, not a negative number.",
+      "x^(3/2) = √(x³) = (√x)³ — the denominator is the root, the numerator is the power.",
+      "(2x³)⁴ = 2⁴x¹² — the outside exponent reaches the coefficient too, which is the step most often missed."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "example",
+     "text": "Simplify (8x⁶)^(2/3)",
+     "items": [
+      "The exponent applies to both parts: 8^(2/3) · x^(6 · 2/3).",
+      "8^(2/3) is the cube root of 8, squared: 2² = 4.",
+      "x⁴ from the second part."
+     ],
+     "answer": "4x⁴"
+    }
+   ]
+  },
+  {
+   "id": "nonlinear-equations",
+   "subject": "math",
+   "domain": "Advanced Math",
+   "skills": [
+    "Nonlinear equations in one variable and systems of equations in two variables"
+   ],
+   "title": "Quadratics and the systems they appear in",
+   "summary": "Three ways to solve a quadratic, and when each is the fast one.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "A quadratic has an x² and no higher power. There are three routes, and choosing well saves a minute."
+    },
+    {
+     "kind": "heading",
+     "text": "Factoring — try first"
+    },
+    {
+     "kind": "example",
+     "text": "x² − 7x + 12 = 0",
+     "items": [
+      "Two numbers multiplying to 12 and adding to −7: −3 and −4.",
+      "(x − 3)(x − 4) = 0",
+      "A product is zero when a factor is zero."
+     ],
+     "answer": "x = 3 or x = 4"
+    },
+    {
+     "kind": "heading",
+     "text": "The quadratic formula — always works"
+    },
+    {
+     "kind": "rule",
+     "text": "x = (−b ± √(b² − 4ac)) / 2a, for ax² + bx + c = 0."
+    },
+    {
+     "kind": "paragraph",
+     "text": "The part under the root, b² − 4ac, is the discriminant, and the SAT asks about it directly: positive means two real solutions, zero means exactly one, negative means none."
+    },
+    {
+     "kind": "heading",
+     "text": "Completing the square — when you need the vertex"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Rewriting as y = a(x − h)² + k gives the vertex (h, k) directly, which is what “minimum value” and “maximum value” questions are really asking for."
+    },
+    {
+     "kind": "heading",
+     "text": "Nonlinear systems"
+    },
+    {
+     "kind": "paragraph",
+     "text": "A line and a parabola meet where their y values agree. Set the two expressions equal and solve the quadratic that results. The number of solutions is the number of times they cross — and “the line is tangent to the curve” means the discriminant is zero."
+    },
+    {
+     "kind": "example",
+     "text": "y = x² and y = 2x + 3 — where do they meet?",
+     "items": [
+      "x² = 2x + 3",
+      "x² − 2x − 3 = 0",
+      "(x − 3)(x + 1) = 0",
+      "x = 3 or x = −1; then y = 9 and y = 1."
+     ],
+     "answer": "(3, 9) and (−1, 1)"
+    }
+   ]
+  },
+  {
+   "id": "nonlinear-functions",
+   "subject": "math",
+   "domain": "Advanced Math",
+   "skills": [
+    "Nonlinear functions"
+   ],
+   "title": "Parabolas, exponentials and the shapes they make",
+   "summary": "Reading a curve off its equation, and telling growth from decay.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "The largest Math skill in the bank. Most of it is knowing which form of an equation tells you which fact."
+    },
+    {
+     "kind": "heading",
+     "text": "Quadratics: three forms, three facts"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Standard, y = ax² + bx + c — c is the y-intercept.",
+      "Factored, y = a(x − p)(x − q) — p and q are the x-intercepts.",
+      "Vertex, y = a(x − h)² + k — (h, k) is the vertex, the maximum or minimum."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "rule",
+     "text": "Positive a opens upwards and has a minimum. Negative a opens downwards and has a maximum. The axis of symmetry runs through the vertex at x = h."
+    },
+    {
+     "kind": "diagram",
+     "text": "parabola",
+     "answer": "The vertex sits halfway between the two x-intercepts, which is often the quickest route to it."
+    },
+    {
+     "kind": "paragraph",
+     "text": "The vertex sits halfway between the two x-intercepts, which is often the quickest route to it."
+    },
+    {
+     "kind": "heading",
+     "text": "Exponential functions"
+    },
+    {
+     "kind": "paragraph",
+     "text": "y = a · bˣ multiplies by b each time x goes up by one, rather than adding. a is the starting value."
+    },
+    {
+     "kind": "list",
+     "items": [
+      "b > 1 — growth. b = 1.05 is a 5% increase per step.",
+      "0 < b < 1 — decay. b = 0.85 is a 15% decrease per step."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "rule",
+     "text": "Linear adds the same amount each step; exponential multiplies by the same factor. A table showing a constant **ratio** between rows is exponential, not linear."
+    },
+    {
+     "kind": "example",
+     "text": "A population of 200 grows by 8% a year. Write it as a function of years t.",
+     "items": [
+      "Starting value 200.",
+      "Multiply by 1.08 each year."
+     ],
+     "answer": "P(t) = 200(1.08)ᵗ"
+    },
+    {
+     "kind": "diagram",
+     "text": "linear-vs-exponential",
+     "answer": "Equal steps apart at first, then not remotely. A table with a constant ratio between rows is the exponential one."
+    }
+   ]
+  },
+  {
+   "id": "percentages",
+   "subject": "math",
+   "domain": "Problem-Solving and Data Analysis",
+   "skills": [
+    "Percentages"
+   ],
+   "title": "Percent, increase and decrease",
+   "summary": "One equation covers most of it, and one mistake accounts for most errors.",
+   "blocks": [
+    {
+     "kind": "rule",
+     "text": "“is” means equals, “of” means multiply, “what” is the unknown. Translate the sentence straight into an equation."
+    },
+    {
+     "kind": "example",
+     "text": "18 is what percent of 40?",
+     "items": [
+      "18 = (p/100) × 40",
+      "18/40 = 0.45"
+     ],
+     "answer": "45%"
+    },
+    {
+     "kind": "heading",
+     "text": "Increase and decrease"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Up by 20% → multiply by 1.20",
+      "Down by 20% → multiply by 0.80",
+      "Up 20% then down 20% → × 1.2 × 0.8 = 0.96, so 4% **below** where you started"
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "paragraph",
+     "text": "That last line is the trap the SAT sets most often. Successive percentage changes multiply; they never add."
+    },
+    {
+     "kind": "heading",
+     "text": "Percent change"
+    },
+    {
+     "kind": "rule",
+     "text": "Percent change = (new − old) / old × 100. The denominator is always what you started from."
+    },
+    {
+     "kind": "example",
+     "text": "A price falls from 80 to 60. What is the percent decrease?",
+     "items": [
+      "Change: 60 − 80 = −20.",
+      "Divide by the original: −20/80 = −0.25."
+     ],
+     "answer": "A 25% decrease"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Going 80 → 60 is a 25% fall, but 60 → 80 is a 33% rise. The two are not the same number, because the starting point changed."
+    },
+    {
+     "kind": "heading",
+     "text": "Working backwards from a total"
+    },
+    {
+     "kind": "paragraph",
+     "text": "A price after a 20% increase is 1.2 times the original — so to get back to the original you divide by 1.2, never subtract 20%."
+    },
+    {
+     "kind": "example",
+     "text": "A jacket costs 96 after a 20% discount. What was the original price?",
+     "items": [
+      "A 20% discount means the price is 0.8 of the original.",
+      "0.8 × original = 96.",
+      "original = 96 ÷ 0.8."
+     ],
+     "answer": "120. Adding 20% to 96 would give 115.20, which is the commonest wrong answer: the 20% came off the original price, not off 96."
+    }
+   ]
+  },
+  {
+   "id": "ratios-rates",
+   "subject": "math",
+   "domain": "Problem-Solving and Data Analysis",
+   "skills": [
+    "Ratios, rates, proportional relationships, and units"
+   ],
+   "title": "Ratios, rates and keeping the units straight",
+   "summary": "Set up a proportion, cancel the units, and let the units check your answer.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "Set the same quantity in the same place on both sides of a proportion and most of these solve themselves."
+    },
+    {
+     "kind": "example",
+     "text": "A machine fills 240 bottles in 8 minutes. How long for 900?",
+     "items": [
+      "240/8 = 900/t",
+      "240t = 7200"
+     ],
+     "answer": "t = 30 minutes"
+    },
+    {
+     "kind": "heading",
+     "text": "Unit conversion by canceling"
+    },
+    {
+     "kind": "rule",
+     "text": "Write each conversion as a fraction with the unit you want on top and the unit you are removing underneath. Cancel until only the wanted unit is left."
+    },
+    {
+     "kind": "example",
+     "text": "Convert 90 kilometers per hour to meters per second.",
+     "items": [
+      "90 km/h × 1000 m/km = 90 000 m/h",
+      "÷ 3600 s/h"
+     ],
+     "answer": "25 m/s"
+    },
+    {
+     "kind": "heading",
+     "text": "The unit as a check"
+    },
+    {
+     "kind": "paragraph",
+     "text": "If the units of your answer are not the units the question asked for, the arithmetic is wrong however clean it looks. Track them all the way through — this catches more mistakes than re-checking the numbers does."
+    },
+    {
+     "kind": "heading",
+     "text": "Ratios with a total"
+    },
+    {
+     "kind": "example",
+     "text": "Two quantities are in the ratio 3 : 5 and total 96. Find each.",
+     "items": [
+      "3 + 5 = 8 parts.",
+      "96 ÷ 8 = 12 per part."
+     ],
+     "answer": "36 and 60"
+    }
+   ]
+  },
+  {
+   "id": "one-variable-data",
+   "subject": "math",
+   "domain": "Problem-Solving and Data Analysis",
+   "skills": [
+    "One-variable data: Distributions and measures of center and spread"
+   ],
+   "title": "Mean, median, and what an outlier does to each",
+   "summary": "Which measure of center a question wants, and why the distinction is the question.",
+   "blocks": [
+    {
+     "kind": "list",
+     "items": [
+      "Mean — add and divide. Every value pulls on it.",
+      "Median — the middle value once sorted. Only position matters.",
+      "Mode — the commonest value.",
+      "Range — largest minus smallest.",
+      "Standard deviation — how spread out the values are, not where they sit."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "rule",
+     "text": "An outlier moves the mean and barely touches the median. That single sentence answers most questions in this skill."
+    },
+    {
+     "kind": "diagram",
+     "text": "outlier-number-line",
+     "answer": "The same four salaries on their own, then with 300 beside them. One value drags the mean from 33 to 86.4, past four of the five; the median goes 33 to 34."
+    },
+    {
+     "kind": "example",
+     "text": "Salaries: 30, 32, 34, 36, 300 (thousands). Which measure describes this group better?",
+     "items": [
+      "Mean = 86.4 — higher than four of the five values.",
+      "Median = 34 — in the middle of the cluster."
+     ],
+     "answer": "The median. One large value has dragged the mean away from everybody."
+    },
+    {
+     "kind": "heading",
+     "text": "Standard deviation without calculating it"
+    },
+    {
+     "kind": "paragraph",
+     "text": "The SAT never asks you to compute it, only to compare. Values tightly clustered → small. Values spread wide → large. Adding the same amount to every value moves the mean and leaves the spread unchanged."
+    },
+    {
+     "kind": "heading",
+     "text": "Reading a histogram"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Find the median by counting in from one end until you pass half the total, rather than by looking for the tallest bar — the tallest bar is the mode."
+    }
+   ]
+  },
+  {
+   "id": "two-variable-data",
+   "subject": "math",
+   "domain": "Problem-Solving and Data Analysis",
+   "skills": [
+    "Two-variable data: Models and scatterplots"
+   ],
+   "title": "Scatterplots and lines of best fit",
+   "summary": "Reading a trend, using the model, and knowing where it stops being trustworthy.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "A scatterplot shows pairs of values. A line or curve of best fit summarizes the trend, and the questions are about reading it."
+    },
+    {
+     "kind": "heading",
+     "text": "What the line tells you"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "The slope is the rate — how much y changes per unit of x, in the units of the axes.",
+      "The y-intercept is the predicted value when x is zero, which is sometimes meaningless in context and the test knows it.",
+      "A point above the line means the model under-predicted that case."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "diagram",
+     "text": "scatter-fit",
+     "answer": "A point above the line is a case the model under-predicted."
+    },
+    {
+     "kind": "rule",
+     "text": "Read both axis labels and their units before anything else. Half the wrong answers here are right numbers with the wrong units attached."
+    },
+    {
+     "kind": "heading",
+     "text": "Interpolation and extrapolation"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Predicting inside the range of the data is reasonable. Predicting far outside it is not, and a question asking whether a prediction is reliable is usually asking exactly that."
+    },
+    {
+     "kind": "heading",
+     "text": "Association is not cause"
+    },
+    {
+     "kind": "paragraph",
+     "text": "A strong trend in observational data does not establish that one thing causes the other. A choice claiming cause from a scatterplot alone is wrong — see the article on statistical claims."
+    },
+    {
+     "kind": "example",
+     "text": "A line of best fit is y = 2.5x + 12, where x is hours studied and y is score.",
+     "items": [
+      "Slope 2.5: one more hour is associated with about 2.5 more points.",
+      "Intercept 12: the predicted score with no study."
+     ],
+     "answer": "“Associated with”, not “causes”."
+    }
+   ]
+  },
+  {
+   "id": "probability",
+   "subject": "math",
+   "domain": "Problem-Solving and Data Analysis",
+   "skills": [
+    "Probability and conditional probability"
+   ],
+   "title": "Probability from a table",
+   "summary": "Counting the right two numbers — and what “given that” changes.",
+   "blocks": [
+    {
+     "kind": "rule",
+     "text": "Probability = the number of outcomes you want ÷ the total number of outcomes. The whole skill is deciding what the total is."
+    },
+    {
+     "kind": "heading",
+     "text": "Two-way tables"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Nearly every SAT probability question is a table with row and column totals. The question tells you which total to use."
+    },
+    {
+     "kind": "list",
+     "items": [
+      "“What is the probability that a person chosen at random is X?” — divide by the grand total.",
+      "“…given that the person is Y?” — divide by the total of Y's row or column only.",
+      "“Of the people who are Y, what fraction are X?” — the same thing in different words."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "example",
+     "text": "Of 200 people, 120 are students; 45 of the students walk. What is the probability that a person walks, given they are a student?",
+     "items": [
+      "“Given they are a student” restricts the group to 120.",
+      "45 of those 120 walk."
+     ],
+     "answer": "45/120 = 0.375"
+    },
+    {
+     "kind": "rule",
+     "text": "“Given that” is an instruction to shrink the denominator. If you divided by the grand total, you answered a different question."
+    },
+    {
+     "kind": "paragraph",
+     "text": "Read whether the question wants a fraction, a decimal or a percent, and give it in that form."
+    }
+   ]
+  },
+  {
+   "id": "statistical-claims",
+   "subject": "math",
+   "domain": "Problem-Solving and Data Analysis",
+   "skills": [
+    "Evaluating statistical claims: Observational studies and experiments",
+    "Inference from sample statistics and margin of error"
+   ],
+   "title": "What a study is allowed to conclude",
+   "summary": "Random sampling, random assignment, and the two words that decide the answer.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "Two features of a study decide what it may claim, and the SAT tests exactly this distinction."
+    },
+    {
+     "kind": "rule",
+     "text": "**Random sampling** lets you generalize to the wider population. **Random assignment** lets you claim cause. They are different things and you need both for both."
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Randomly sampled, not randomly assigned → you may generalize, but only to an association.",
+      "Randomly assigned, not randomly sampled → you may claim cause, but only for people like the participants.",
+      "Neither → the result describes the participants and nothing more.",
+      "Both → generalize and claim cause."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "example",
+     "text": "Volunteers who already exercise were surveyed and reported better sleep.",
+     "items": [
+      "Not randomly sampled — volunteers who already exercise.",
+      "Not randomly assigned — nobody was placed into groups."
+     ],
+     "answer": "The study may report an association among these volunteers. It may not say exercise causes better sleep, and it may not generalize."
+    },
+    {
+     "kind": "heading",
+     "text": "Margin of error"
+    },
+    {
+     "kind": "paragraph",
+     "text": "A margin of error gives a plausible range: 48% with a margin of 3 means roughly 45% to 51%. The SAT asks two things about it."
+    },
+    {
+     "kind": "list",
+     "items": [
+      "A larger sample gives a smaller margin of error.",
+      "If two estimates' ranges overlap, the data does not establish a difference between them."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "rule",
+     "text": "Never read a margin of error as “the true value is definitely inside”. It is a plausible range, not a guarantee."
+    }
+   ]
+  },
+  {
+   "id": "lines-angles-triangles",
+   "subject": "math",
+   "domain": "Geometry and Trigonometry",
+   "skills": [
+    "Lines, angles, and triangles"
+   ],
+   "title": "Angles and similar triangles",
+   "summary": "The angle facts worth memorizing, and what “similar” lets you do.",
+   "blocks": [
+    {
+     "kind": "heading",
+     "text": "Angles"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Angles on a straight line add to 180°.",
+      "Angles around a point add to 360°.",
+      "Vertical angles — opposite each other where two lines cross — are equal.",
+      "Parallel lines cut by a third: corresponding and alternate angles are equal; same-side angles add to 180°."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "diagram",
+     "text": "transversal",
+     "answer": "Two parallels cut by a third line. Every angle in the figure is either a or b, and a + b = 180°."
+    },
+    {
+     "kind": "heading",
+     "text": "Triangles"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "The three angles add to 180°.",
+      "An exterior angle equals the sum of the two opposite interior angles.",
+      "Isosceles: two equal sides face two equal angles — and the converse.",
+      "The longest side faces the largest angle."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "heading",
+     "text": "Similar triangles"
+    },
+    {
+     "kind": "rule",
+     "text": "Similar triangles have equal angles and sides in proportion. Two equal angles are enough to prove similarity — the third follows."
+    },
+    {
+     "kind": "paragraph",
+     "text": "Similarity is the workhorse here. Once you know two triangles are similar, every pair of matching sides has the same ratio, and the question becomes a proportion."
+    },
+    {
+     "kind": "example",
+     "text": "Two similar triangles: the smaller has sides 3 and 4; the larger's matching first side is 9. Find the matching second side.",
+     "items": [
+      "Scale factor: 9/3 = 3.",
+      "4 × 3 = 12."
+     ],
+     "answer": "12"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Careful with area: if the sides scale by 3, the area scales by 3² = 9."
+    },
+    {
+     "kind": "diagram",
+     "text": "similar-triangles",
+     "answer": "Sides scale by 3, so the area scales by 3² = 9. That second part is what the question is usually really asking."
+    }
+   ]
+  },
+  {
+   "id": "right-triangles",
+   "subject": "math",
+   "domain": "Geometry and Trigonometry",
+   "skills": [
+    "Right triangles and trigonometry"
+   ],
+   "title": "Right triangles and SOH-CAH-TOA",
+   "summary": "Pythagoras, the two triangles that recur, and what sine and cosine actually are.",
+   "blocks": [
+    {
+     "kind": "rule",
+     "text": "a² + b² = c², where c is the hypotenuse — the side opposite the right angle, always the longest."
+    },
+    {
+     "kind": "heading",
+     "text": "Two triangles worth knowing by sight"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "45–45–90: sides in the ratio 1 : 1 : √2.",
+      "30–60–90: sides in the ratio 1 : √3 : 2, with the shortest opposite the 30°."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "diagram",
+     "text": "special-right-triangles",
+     "answer": "Both are on the reference sheet you are given, but recognizing them saves you looking — and saves the arithmetic entirely."
+    },
+    {
+     "kind": "paragraph",
+     "text": "Also worth recognizing: 3–4–5 and 5–12–13, and their multiples. Spotting one saves the arithmetic entirely."
+    },
+    {
+     "kind": "heading",
+     "text": "Trigonometry"
+    },
+    {
+     "kind": "rule",
+     "text": "sin = opposite / hypotenuse. cos = adjacent / hypotenuse. tan = opposite / adjacent. Relative to the angle you are working from."
+    },
+    {
+     "kind": "example",
+     "text": "A right triangle has hypotenuse 10 and an angle of 30°. Find the opposite side.",
+     "items": [
+      "sin 30° = opposite / 10",
+      "sin 30° = 0.5",
+      "opposite = 10 × 0.5"
+     ],
+     "answer": "5"
+    },
+    {
+     "kind": "heading",
+     "text": "The identity the SAT likes"
+    },
+    {
+     "kind": "paragraph",
+     "text": "sin(x) = cos(90° − x). The two acute angles in a right triangle add to 90°, so one's sine is the other's cosine — that is the whole of it, and questions built on it look harder than they are."
+    }
+   ]
+  },
+  {
+   "id": "circles",
+   "subject": "math",
+   "domain": "Geometry and Trigonometry",
+   "skills": [
+    "Circles"
+   ],
+   "title": "Circles: equations, arcs and area",
+   "summary": "The circle equation, radians, and the two proportions everything else follows from.",
+   "blocks": [
+    {
+     "kind": "rule",
+     "text": "A circle with center (h, k) and radius r: (x − h)² + (y − k)² = r²."
+    },
+    {
+     "kind": "paragraph",
+     "text": "When a question gives the equation in expanded form, complete the square in x and in y to get it back to this form. The center and radius are then read off directly."
+    },
+    {
+     "kind": "heading",
+     "text": "Arcs and sectors"
+    },
+    {
+     "kind": "rule",
+     "text": "An arc or a sector is the same fraction of the circle as its angle is of the whole turn."
+    },
+    {
+     "kind": "diagram",
+     "text": "circle-sector",
+     "answer": "A sector is the same fraction of the circle that its angle is of the whole turn. Everything else here follows from that."
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Arc length = (angle / 360°) × 2πr",
+      "Sector area = (angle / 360°) × πr²"
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "example",
+     "text": "A circle of radius 6 has a sector with a 60° angle. Find its area.",
+     "items": [
+      "60/360 = 1/6 of the circle.",
+      "Whole area = π × 36 = 36π."
+     ],
+     "answer": "6π"
+    },
+    {
+     "kind": "heading",
+     "text": "Radians"
+    },
+    {
+     "kind": "rule",
+     "text": "A full turn is 360° or 2π radians. To convert, multiply by π/180 going to radians, or by 180/π coming back."
+    },
+    {
+     "kind": "list",
+     "items": [
+      "90° = π/2",
+      "180° = π",
+      "60° = π/3",
+      "45° = π/4"
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "paragraph",
+     "text": "In radians the arc formulas get simpler: arc length is rθ and sector area is ½r²θ."
+    }
+   ]
+  },
+  {
+   "id": "area-volume",
+   "subject": "math",
+   "domain": "Geometry and Trigonometry",
+   "skills": [
+    "Area and volume"
+   ],
+   "title": "Area, volume and what scaling does",
+   "summary": "The formulas that are given, the ones that are not, and the scaling rule.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "The digital SAT provides a reference sheet of basic geometry formulas — this app has one too. What it does not give you is the judgment about which to use."
+    },
+    {
+     "kind": "heading",
+     "text": "Worth knowing without looking"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Rectangle: length × width. Triangle: ½ × base × height.",
+      "Circle: area πr², circumference 2πr.",
+      "Trapezoid: ½ × (a + b) × height.",
+      "Prism or cylinder: base area × height.",
+      "Cone or pyramid: ⅓ × base area × height — the third is what people forget.",
+      "Sphere: volume (4/3)πr³, surface area 4πr²."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "heading",
+     "text": "The scaling rule"
+    },
+    {
+     "kind": "rule",
+     "text": "Multiply every length by k and areas multiply by k², volumes by k³."
+    },
+    {
+     "kind": "example",
+     "text": "A cylinder's radius is doubled and its height is unchanged. What happens to the volume?",
+     "items": [
+      "Volume is πr²h.",
+      "Doubling r squares in: (2r)² = 4r²."
+     ],
+     "answer": "It is four times as large."
+    },
+    {
+     "kind": "heading",
+     "text": "Composite shapes"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Break the shape into pieces you know, or find the whole and subtract the hole. Almost every hard question in this skill is one of those two moves."
+    },
+    {
+     "kind": "paragraph",
+     "text": "Check the units: an area answer is in square units and a volume in cubic ones, and a question that gives lengths in centimeters and asks for liters is testing the conversion as much as the formula."
+    },
+    {
+     "kind": "heading",
+     "text": "What you are given, and what you are not"
+    },
+    {
+     "kind": "paragraph",
+     "text": "The digital SAT's reference sheet holds the geometry: the areas of a rectangle, triangle and circle, circumference, the volumes of a box, cylinder, sphere, cone and pyramid, the Pythagorean theorem, the two special triangles, and the three facts that a circle is 360° or 2π radians and a triangle's angles sum to 180°."
+    },
+    {
+     "kind": "rule",
+     "text": "Everything not on the sheet is yours to remember: slope, the quadratic formula, vertex form, the exponent rules, exponential growth and decay, percent change, the circle equation, arc length, sector area, and the trigonometric ratios."
+    }
+   ]
+  },
+  {
+   "id": "reference-sheet",
+   "subject": "math",
+   "domain": "Geometry and Trigonometry",
+   "skills": [
+    "Area and volume",
+    "Circles",
+    "Right triangles and trigonometry"
+   ],
+   "title": "The reference sheet, and what it will not do for you",
+   "summary": "What the sheet gives you, what it does not, and how to stop losing time to it.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "Every Math module comes with a reference sheet, and it is the same sheet every time. It is not a reward and it is not a secret: it is there from the first question, in the real test and in this app, under **Reference** at the top of the screen. Nobody is watching how often you open it."
+    },
+    {
+     "kind": "paragraph",
+     "text": "What it is **for** is the formulas that are tedious to remember and easy to get slightly wrong — the volume of a cone, the two special right triangles, the number of degrees in a circle. What it is not for is telling you which formula this question wants. That part is yours, and it is the part being tested."
+    },
+    {
+     "kind": "heading",
+     "text": "This is the whole of it"
+    },
+    {
+     "kind": "diagram",
+     "text": "reference-sheet",
+     "answer": "The sheet as the app shows it. Eleven figures and three facts — that is everything you are given."
+    },
+    {
+     "kind": "heading",
+     "text": "What is on it"
+    },
+    {
+     "kind": "list",
+     "ordered": false,
+     "items": [
+      "Areas: circle, rectangle, triangle.",
+      "The Pythagorean theorem, and the two special right triangles — 30-60-90 and 45-45-90.",
+      "Volumes: rectangular box, cylinder, sphere, cone, pyramid.",
+      "Three facts stated in words: 360 degrees in a circle, 2π radians in a circle, 180 degrees in a triangle."
+     ]
+    },
+    {
+     "kind": "heading",
+     "text": "What is not on it"
+    },
+    {
+     "kind": "list",
+     "ordered": false,
+     "items": [
+      "Slope, and the equation of a line in any of its forms.",
+      "The quadratic formula, and anything about factoring.",
+      "The equation of a circle in the xy-plane.",
+      "SOHCAHTOA — the sheet draws you a triangle, it does not name the ratios.",
+      "Percentages, averages, exponent rules, and every algebraic identity.",
+      "Arc length and sector area — you get the circle, not the slice."
+     ]
+    },
+    {
+     "kind": "rule",
+     "text": "If a formula is not on the sheet, that is the test telling you it expects you to know it. The list above is short. Learn it and the sheet becomes a convenience rather than a lifeline."
+    },
+    {
+     "kind": "heading",
+     "text": "Using it without losing time"
+    },
+    {
+     "kind": "list",
+     "ordered": false,
+     "items": [
+      "Open it once, before you need it, and look at where things are. A sheet you have never read is a sheet you will search under time pressure.",
+      "Go to it for the volumes and the special triangles. Those are what it is good at.",
+      "If you find yourself opening it for slope or the quadratic formula, that is a gap to close before test day, not a habit to build.",
+      "Every second in the sheet is a second not spent on the question. Two or three visits in a module is normal; ten is a signal."
+     ]
+    },
+    {
+     "kind": "example",
+     "text": "A sector of a circle has a central angle of 60° and a radius of 6. What is its area?",
+     "items": [
+      "The sheet gives the area of the whole circle: πr² = 36π.",
+      "The sheet does not give sector area — but it does tell you a circle is 360°.",
+      "60° is a sixth of 360°, so the sector is a sixth of the circle.",
+      "36π ÷ 6 = 6π."
+     ],
+     "answer": "6π. The sheet supplied one of the two facts; the other came from knowing what a sector is."
+    },
+    {
+     "kind": "paragraph",
+     "text": "That is the shape of nearly every reference-sheet question: the sheet holds one piece and you hold the rest. Reading it now, calmly, is the cheapest preparation in this whole app."
+    }
+   ]
+  }
+ ]
+}

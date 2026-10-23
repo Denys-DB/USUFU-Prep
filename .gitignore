@@ -1,0 +1,12 @@
+build/
+*.o
+*.swiftmodule
+*.dSYM/
+.DS_Store
+*.xcuserdatastate
+__pycache__/
+*.pyc
+dist/
+windows/satprep-error.log
+windows/satprep/_build_version.py
+.venv/

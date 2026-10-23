@@ -1,0 +1,1910 @@
+{
+ "version": 1,
+ "articles": [
+  {
+   "id": "boundaries",
+   "subject": "readingWriting",
+   "domain": "Standard English Conventions",
+   "skills": [
+    "Boundaries"
+   ],
+   "title": "Onde as frases começam e terminam",
+   "summary": "Vírgulas, ponto e vírgula, dois-pontos e travessões — e o teste que resolve a maioria deles.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "Quase toda questão sobre limites de frase pergunta uma coisa só: cada lado deste sinal de pontuação é uma frase completa? Responda isso primeiro e a maioria das alternativas cai sozinha."
+    },
+    {
+     "kind": "rule",
+     "text": "Uma frase completa tem sujeito e verbo e se sustenta sozinha. Duas frases completas não se juntam só com uma vírgula."
+    },
+    {
+     "kind": "heading",
+     "text": "As quatro junções"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Ponto final ou ponto e vírgula — os dois lados completos. O ponto e vírgula diz que as duas ideias são muito ligadas; o ponto final não.",
+      "Vírgula + and/but/or/so/for/nor/yet — os dois lados completos.",
+      "Dois-pontos — o lado esquerdo precisa estar completo; o direito pode ser uma lista, uma expressão ou outra frase. Os dois-pontos prometem uma explicação do que veio antes.",
+      "Travessão — como os dois-pontos, mas menos formal. Um par de travessões funciona como um par de vírgulas."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "heading",
+     "text": "O erro que a prova procura"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Juntar duas frases completas só com uma vírgula é a alternativa errada mais comum deste domínio. Se você pode pôr um ponto onde está a vírgula e as duas metades continuam sendo frases, a vírgula sozinha está errada."
+    },
+    {
+     "kind": "example",
+     "text": "The experiment produced clear results, the team published within a month.",
+     "items": [
+      "Lado esquerdo: “The experiment produced clear results” — completo.",
+      "Lado direito: “the team published within a month” — também completo.",
+      "Duas frases completas, então uma vírgula sozinha não serve."
+     ],
+     "answer": "Use ponto e vírgula, ou ponto final, ou acrescente “and” depois da vírgula."
+    },
+    {
+     "kind": "heading",
+     "text": "Vírgulas que não são junções"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Em volta de informação extra que você poderia tirar: “The report, published in May, ran to 90 pages.” Tire o meio e a frase continua funcionando.",
+      "Depois de uma expressão introdutória: “After the storm, the road reopened.”",
+      "Entre os itens de uma lista."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "rule",
+     "text": "Se você pode tirar as palavras entre duas vírgulas e ainda ter uma frase, as vírgulas estão certas. Se tirá-las quebra a frase, estão erradas."
+    },
+    {
+     "kind": "paragraph",
+     "text": "Mais uma: nunca ponha uma única vírgula entre o sujeito e o verbo. “The scientist who led the study, published her results” está errada: nada separa um sujeito do que ele faz."
+    }
+   ]
+  },
+  {
+   "id": "form-structure-sense",
+   "subject": "readingWriting",
+   "domain": "Standard English Conventions",
+   "skills": [
+    "Form, Structure, and Sense"
+   ],
+   "title": "Verbos, pronomes e concordância",
+   "summary": "Fazer as partes da frase combinarem: número, tempo e a que um pronome se refere.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "Estas questões são de concordância. Algo na frase precisa combinar com outra coisa, e as alternativas erradas são aquelas em que não combina."
+    },
+    {
+     "kind": "heading",
+     "text": "Sujeito e verbo"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Ache o sujeito antes de escolher o verbo. A prova esconde o sujeito atrás de outras palavras de propósito."
+    },
+    {
+     "kind": "example",
+     "text": "The collection of letters written by the two scientists (was / were) donated to the library.",
+     "items": [
+      "Tire o meio: “written by the two scientists” descreve as cartas, não o sujeito.",
+      "O sujeito é “The collection” — uma coleção."
+     ],
+     "answer": "was donated"
+    },
+    {
+     "kind": "rule",
+     "text": "Palavras entre o sujeito e o verbo nunca mudam o sujeito. Risque-as e leia o que sobrou."
+    },
+    {
+     "kind": "heading",
+     "text": "Pronomes"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Um pronome precisa combinar em número com o que substitui: um pesquisador → she ou he, não they; the committee → it.",
+      "Precisa ficar claro o que ele substitui. Se dois substantivos poderiam ser “it”, a frase precisa do substantivo de volta.",
+      "its / it’s: “it’s” é sempre “it is”. O possessivo não leva apóstrofo.",
+      "their / there / they’re, whose / who’s — o mesmo teste."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "heading",
+     "text": "Tempo verbal"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Fique em um só tempo, a não ser que a frase dê motivo para mudar. Uma data, uma expressão como “by 1920” ou outro verbo geralmente indica em que tempo a frase está."
+    },
+    {
+     "kind": "heading",
+     "text": "Apóstrofos"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "one scientist’s notes — pertence a um",
+      "two scientists’ notes — pertence a mais de um",
+      "the scientists arrived — plural, sem apóstrofo em lugar nenhum"
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "rule",
+     "text": "Plural, possessivo ou os dois? Decida isso primeiro e então coloque o apóstrofo. A maioria das alternativas erradas é um plural usando um apóstrofo de que não precisa."
+    }
+   ]
+  },
+  {
+   "id": "words-in-context",
+   "subject": "readingWriting",
+   "domain": "Craft and Structure",
+   "skills": [
+    "Words in Context"
+   ],
+   "title": "O que a palavra significa aqui",
+   "summary": "O sentido mais comum raramente é a resposta; quem decide é a frase em volta.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "Estas questões nunca perguntam o que uma palavra costuma significar. Perguntam o que ela significa nesta frase, e a frase sempre contém a evidência."
+    },
+    {
+     "kind": "rule",
+     "text": "Tape as quatro alternativas. Leia a frase e coloque a sua própria palavra na lacuna. Depois procure a alternativa mais próxima da sua."
+    },
+    {
+     "kind": "paragraph",
+     "text": "Fazer isso primeiro é toda a técnica. Se você lê as alternativas primeiro, uma vai soar familiar — e familiar é exatamente a isca da prova."
+    },
+    {
+     "kind": "heading",
+     "text": "Onde está a evidência"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Uma palavra de contraste — but, however, although, yet — diz que a palavra que falta se opõe ao que veio antes.",
+      "Uma palavra de continuação — and, moreover, indeed — diz que ela concorda.",
+      "Dois-pontos, travessão ou vírgula muitas vezes introduzem uma definição da palavra que você precisa.",
+      "O resto do texto: se o autor é crítico o tempo todo, a palavra dificilmente será um elogio."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "example",
+     "text": "Her account of the expedition was ______: she described the weather, the equipment and the route in detail, but said almost nothing about why they went.",
+     "items": [
+      "“but said almost nothing about why” marca um limite.",
+      "Então o relato é completo sobre umas coisas e não sobre outras.",
+      "Sua própria palavra: “detalhado, mas estreito”."
+     ],
+     "answer": "Serve uma alternativa que signifique “seletivo”: minucioso em umas coisas e calado em outras. “Minucioso” fica com o detalhe e perde o limite; “vago” ou “desonesto” não servem para nenhum dos dois."
+    },
+    {
+     "kind": "heading",
+     "text": "Segundos sentidos"
+    },
+    {
+     "kind": "paragraph",
+     "text": "A prova gosta de palavras comuns em sentidos menos comuns — “qualify” como limitar, “yield” como produzir, “reserve” como discrição. Se o sentido cotidiano deixa a frase estranha, procure o segundo."
+    }
+   ]
+  },
+  {
+   "id": "text-structure-purpose",
+   "subject": "readingWriting",
+   "domain": "Craft and Structure",
+   "skills": [
+    "Text Structure and Purpose"
+   ],
+   "title": "Por que o texto é construído assim",
+   "summary": "O que um texto está fazendo, e o que uma parte dele faz pelo todo.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "Dois formatos de questão vivem aqui. Um pergunta sobre o texto inteiro: qual é o objetivo principal do autor? O outro aponta uma frase e pergunta o que ela faz."
+    },
+    {
+     "kind": "rule",
+     "text": "Objetivo é um verbo. Antes de olhar as alternativas, complete em voz alta: “O autor está ______ndo.” Explicando, argumentando, comparando, corrigindo, ilustrando."
+    },
+    {
+     "kind": "heading",
+     "text": "A questão sobre a frase apontada"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Quando a questão aponta uma frase, a resposta quase nunca é o que a frase diz — é o que ela faz pelo raciocínio em volta. Leia a frase antes e a frase depois. A resposta está nessa relação."
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Ela introduz o problema que o resto do texto responde.",
+      "Ela dá um exemplo da afirmação que acabou de ser feita.",
+      "Ela levanta uma objeção que o autor responde depois.",
+      "Ela atenua uma afirmação que seria forte demais."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "heading",
+     "text": "Alternativas erradas a esperar"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Verdadeira, mas sobre outra parte do texto.",
+      "Descreve o tema em vez da função.",
+      "Exagera: diz que o autor “refuta” quando ele apenas “questiona”."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "paragraph",
+     "text": "Observe a força do verbo. Um texto que diz “isso pode sugerir” não provou nada, e uma alternativa dizendo que ele “demonstra” está errada só por isso."
+    }
+   ]
+  },
+  {
+   "id": "cross-text-connections",
+   "subject": "readingWriting",
+   "domain": "Craft and Structure",
+   "skills": [
+    "Cross-Text Connections",
+    "Cross-text Connections"
+   ],
+   "title": "Dois textos, uma questão",
+   "summary": "Como o segundo autor responderia ao primeiro — e como achar isso rápido.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "Você recebe dois textos curtos e uma questão sobre a relação entre eles. O trabalho está quase todo em ler o Texto 2 com o Texto 1 em mente."
+    },
+    {
+     "kind": "rule",
+     "text": "Antes de ler as alternativas, escreva uma frase: o que o autor do Texto 2 diria sobre a afirmação principal do Texto 1? Concorda, discorda, concorda com um limite, ou diz que a questão não vem ao caso."
+    },
+    {
+     "kind": "heading",
+     "text": "As quatro relações"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "O Texto 2 concorda e acrescenta evidência.",
+      "O Texto 2 discorda abertamente.",
+      "O Texto 2 aceita o resultado mas rejeita a explicação — a mais comum e a mais errada.",
+      "O Texto 2 diz que a própria pergunta está mal colocada."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "paragraph",
+     "text": "Vale esperar a terceira. Dois pesquisadores muitas vezes veem os mesmos dados e os leem de forma diferente, e a resposta certa diz exatamente isso: o fato é aceito, a interpretação não."
+    },
+    {
+     "kind": "heading",
+     "text": "Método"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Leia o Texto 1. Nas suas palavras, o que ele afirma?",
+      "Leia o Texto 2 procurando só se ele toca essa afirmação.",
+      "Decida a relação antes de ler qualquer alternativa.",
+      "Rejeite qualquer alternativa que ponha na boca de um autor algo que o texto dele não contém."
+     ],
+     "ordered": true
+    },
+    {
+     "kind": "paragraph",
+     "text": "Uma alternativa pode ser perfeitamente verdadeira sobre um texto e ainda assim estar errada, porque a questão é sobre os dois."
+    }
+   ]
+  },
+  {
+   "id": "command-of-evidence",
+   "subject": "readingWriting",
+   "domain": "Information and Ideas",
+   "skills": [
+    "Command of Evidence"
+   ],
+   "title": "Que resultado apoiaria isso?",
+   "summary": "Ligar uma afirmação à evidência que de fato a sustenta, num texto ou numa tabela ou num gráfico.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "Essa habilidade vem em dois formatos: um baseado em texto e outro montado sobre uma tabela ou um gráfico."
+    },
+    {
+     "kind": "rule",
+     "text": "Ache a afirmação exata que a questão pede para apoiar. Sublinhe. A resposta certa apoia essa afirmação e nenhuma outra."
+    },
+    {
+     "kind": "heading",
+     "text": "A versão em texto"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Uma hipótese ou conclusão é apresentada e você escolhe o resultado que a apoiaria mais diretamente. A maioria das alternativas erradas se relaciona ao tema mas não toca a afirmação específica."
+    },
+    {
+     "kind": "example",
+     "text": "Um pesquisador afirma que uma espécie de ave aprende seu canto com os adultos em vez de já nascer sabendo.",
+     "items": [
+      "O que teria de ser verdade se a fonte fosse o aprendizado?",
+      "Aves criadas sem ouvir adultos cantariam diferente.",
+      "Um resultado sobre o volume do canto não vem ao caso."
+     ],
+     "answer": "A alternativa sobre aves criadas isoladas."
+    },
+    {
+     "kind": "heading",
+     "text": "A versão em gráfico"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Leia os eixos e as unidades antes da questão. Depois confira a afirmação contra os dados palavra por palavra: as alternativas erradas costumam acertar o formato e errar o número, ou acertar o número e errar o grupo."
+    },
+    {
+     "kind": "list",
+     "items": [
+      "A alternativa nomeia o grupo certo?",
+      "Acerta a direção — mais, menos, sem mudança?",
+      "O valor está mesmo no gráfico, ou foi inventado entre dois pontos?"
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "rule",
+     "text": "Se os dados não dizem, não é evidência — por mais razoável que soe."
+    }
+   ]
+  },
+  {
+   "id": "central-ideas-details",
+   "subject": "readingWriting",
+   "domain": "Information and Ideas",
+   "skills": [
+    "Central Ideas and Details"
+   ],
+   "title": "A ideia principal e os detalhes sob ela",
+   "summary": "Distinguir o ponto de um trecho das coisas que ele apenas menciona.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "Um tipo de questão pede a ideia principal do texto inteiro. O outro pede o que o texto disse sobre uma coisa específica. São erros opostos: no primeiro erra-se escolhendo um detalhe; no segundo, escolhendo o tema."
+    },
+    {
+     "kind": "rule",
+     "text": "A ideia principal tem de cobrir o trecho inteiro. Se uma alternativa só é verdadeira de uma frase, é detalhe, não ideia."
+    },
+    {
+     "kind": "heading",
+     "text": "Como achar a ideia principal"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Leia a primeira frase e a última, e pergunte o que o meio faz entre elas. A maioria dos trechos curtos enuncia seu ponto num desses dois lugares e gasta o resto sustentando-o."
+    },
+    {
+     "kind": "heading",
+     "text": "Alternativas erradas a esperar"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Estreita demais — verdadeira só de um parágrafo.",
+      "Ampla demais — verdadeira do assunto em geral, mas não deste texto.",
+      "Meio certa — a primeira parte combina e a segunda acrescenta algo que o texto nunca disse.",
+      "Ideia certa, tom errado — o texto é cauteloso e a alternativa é categórica."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "paragraph",
+     "text": "Essa última pega muita gente. Confira a temperatura da linguagem além do conteúdo."
+    },
+    {
+     "kind": "heading",
+     "text": "Questões de detalhe"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Volte e ache a linha. Não responda de memória: estes trechos são curtos o bastante para a frase ser sempre localizável, e a prova escreve alternativas erradas que soam como o que você lembraria."
+    }
+   ]
+  },
+  {
+   "id": "inferences",
+   "subject": "readingWriting",
+   "domain": "Information and Ideas",
+   "skills": [
+    "Inferences"
+   ],
+   "title": "O que decorre do que está escrito",
+   "summary": "Completar um texto de forma lógica — usando só o que está na página.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "Uma questão de inferência dá um trecho com uma lacuna no fim e pergunta que alternativa o completa mais logicamente. É uma questão de lógica vestida de leitura."
+    },
+    {
+     "kind": "rule",
+     "text": "A resposta certa decorre necessariamente do texto. Não provavelmente, não razoavelmente — necessariamente."
+    },
+    {
+     "kind": "heading",
+     "text": "Método"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Leia até a lacuna e pare.",
+      "Diga com suas palavras o que o texto já estabeleceu.",
+      "Olhe a palavra antes da lacuna — “because”, “however”, “therefore”, “but” — ela indica o formato do que falta.",
+      "Preveja e então compare."
+     ],
+     "ordered": true
+    },
+    {
+     "kind": "example",
+     "text": "The plants grew well in the greenhouse but poorly outdoors, even though both groups received the same water and nutrients. This suggests that ______",
+     "items": [
+      "Mesma água, mesmos nutrientes — então estão descartados.",
+      "A diferença tem de estar em outra coisa que a estufa controla.",
+      "Temperatura, vento, luz."
+     ],
+     "answer": "Uma alternativa que nomeie uma condição controlada pela estufa. A alternativa sobre água é descartada pelo próprio texto."
+    },
+    {
+     "kind": "heading",
+     "text": "A armadilha"
+    },
+    {
+     "kind": "paragraph",
+     "text": "A alternativa errada mais comum é verdadeira no mundo mas não foi estabelecida por este trecho. Não traga nada de fora. Se você se pegar pensando “ora, é óbvio”, confira se o texto realmente disse isso."
+    }
+   ]
+  },
+  {
+   "id": "transitions",
+   "subject": "readingWriting",
+   "domain": "Expression of Ideas",
+   "skills": [
+    "Transitions"
+   ],
+   "title": "A palavra entre duas frases",
+   "summary": "Contraste, causa, adição, exemplo — e como escolher sem ler as alternativas antes.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "Uma questão de conectivos esconde a resposta à vista: a relação entre as duas frases já está lá, e a palavra só a nomeia."
+    },
+    {
+     "kind": "rule",
+     "text": "Tape as alternativas. Leia a frase antes e a frase depois. Decida a relação em uma palavra sua — e então ache-a."
+    },
+    {
+     "kind": "heading",
+     "text": "As famílias"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Contraste: however, nevertheless, on the other hand, still, by contrast",
+      "Resultado: therefore, thus, as a result, consequently",
+      "Adição: moreover, furthermore, in addition, also",
+      "Exemplo: for example, for instance",
+      "Reformulação: in other words, that is",
+      "Concessão e virada: admittedly … however, granted … still"
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "paragraph",
+     "text": "Quase toda alternativa errada é uma palavra da família errada. Uma vez que você sabe a relação, geralmente escolhe entre uma palavra certa e três que significam outra coisa."
+    },
+    {
+     "kind": "heading",
+     "text": "Duas que se confundem"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "“However” marca contraste. “Therefore” marca resultado. Uma frase que decorre da anterior não leva “however”, por mais natural que soe.",
+      "“In addition” acrescenta algo do mesmo tipo. “For example” dá um caso do que acabou de ser dito. Não são intercambiáveis."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "example",
+     "text": "The drug lowered blood pressure in every trial. ______, it produced side effects severe enough to end the study.",
+     "items": [
+      "Primeira frase: boa notícia. Segunda: má.",
+      "A relação é de contraste."
+     ],
+     "answer": "However. Não “therefore” — os efeitos colaterais não decorrem de o remédio funcionar."
+    }
+   ]
+  },
+  {
+   "id": "rhetorical-synthesis",
+   "subject": "readingWriting",
+   "domain": "Expression of Ideas",
+   "skills": [
+    "Rhetorical Synthesis"
+   ],
+   "title": "Anotações em uma frase só",
+   "summary": "Dão-lhe tópicos e um objetivo. O objetivo decide a resposta.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "Dão as anotações de pesquisa de um estudante e pedem que você as combine para cumprir um objetivo declarado. As anotações quase nunca são a dificuldade — o objetivo é."
+    },
+    {
+     "kind": "rule",
+     "text": "Leia o objetivo duas vezes, antes das anotações. Depois leia as alternativas com uma pergunta só: isto faz o que o objetivo disse?"
+    },
+    {
+     "kind": "heading",
+     "text": "Por que isso funciona"
+    },
+    {
+     "kind": "paragraph",
+     "text": "As quatro alternativas costumam ser verdadeiras e costumam vir das anotações. Só uma faz o serviço que a questão pediu. Uma alternativa pode ser exata, bem escrita e errada."
+    },
+    {
+     "kind": "heading",
+     "text": "Objetivos comuns e o que cada um exige"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "“Destacar uma semelhança” — a frase precisa mencionar as duas coisas e dizer que são parecidas.",
+      "“Apresentar o estudo a quem não o conhece” — precisa dos fatos básicos, não das conclusões.",
+      "“Apresentar o resultado e sua importância” — precisa das duas metades; uma alternativa só com o resultado está incompleta.",
+      "“Comparar os dois métodos” — os dois métodos, explicitamente contrastados."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "paragraph",
+     "text": "Quando duas alternativas parecem servir, quase sempre uma delas deixa de fora uma metade exigida. Volte ao objetivo e conte as partes que ele pediu."
+    }
+   ]
+  },
+  {
+   "id": "linear-one-variable",
+   "subject": "math",
+   "domain": "Algebra",
+   "skills": [
+    "Linear equations in one variable"
+   ],
+   "title": "Isolar uma incógnita",
+   "summary": "Desfaça as operações na ordem inversa e saiba como são “sem solução” e “qualquer valor”.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "Uma equação linear de uma incógnita tem a variável só na primeira potência — sem quadrados, sem variável no denominador. Resolver é desfazer, na ordem inversa."
+    },
+    {
+     "kind": "rule",
+     "text": "O que você faz de um lado, faça do outro. Trabalhe de fora para dentro: desfaça a soma antes da multiplicação, e os parênteses por último."
+    },
+    {
+     "kind": "example",
+     "text": "3(2x − 4) + 5 = 23",
+     "items": [
+      "Subtraia 5: 3(2x − 4) = 18",
+      "Divida por 3: 2x − 4 = 6",
+      "Some 4: 2x = 10",
+      "Divida por 2: x = 5"
+     ],
+     "answer": "x = 5"
+    },
+    {
+     "kind": "heading",
+     "text": "As duas respostas especiais"
+    },
+    {
+     "kind": "paragraph",
+     "text": "O SAT pergunta sobre elas diretamente, então reconheça-as de imediato."
+    },
+    {
+     "kind": "list",
+     "items": [
+      "**Sem solução**: as variáveis se cancelam e sobra algo falso, como 4 = 7. As retas são paralelas.",
+      "**Infinitas soluções**: as variáveis se cancelam e sobra algo verdadeiro, como 4 = 4. Os dois lados são a mesma equação escrita de outro jeito."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "example",
+     "text": "Para que valor de a a equação 4x + a = 4x + 9 não tem solução?",
+     "items": [
+      "Subtraia 4x dos dois lados: a = 9.",
+      "Se a for diferente de 9, a afirmação é falsa para todo x."
+     ],
+     "answer": "Qualquer a ≠ 9. E se a = 9, todo x serve."
+    },
+    {
+     "kind": "rule",
+     "text": "Quando os termos com x somem, pare e leia o que sobrou. Essa frase é a resposta."
+    },
+    {
+     "kind": "heading",
+     "text": "Quando a variável está num denominador"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Multiplique os dois lados pelo denominador para eliminá-lo e depois confira a resposta na equação original: um valor que zera um denominador não é solução, por mais limpo que ele saia."
+    },
+    {
+     "kind": "example",
+     "text": "Resolva 12/(x − 2) = 3",
+     "items": [
+      "Multiplique os dois lados por (x − 2): 12 = 3(x − 2).",
+      "12 = 3x − 6, então 3x = 18.",
+      "x = 6, e 6 − 2 = 4, que não é zero — então vale."
+     ],
+     "answer": "x = 6"
+    }
+   ]
+  },
+  {
+   "id": "linear-two-variables",
+   "subject": "math",
+   "domain": "Algebra",
+   "skills": [
+    "Linear equations in two variables"
+   ],
+   "title": "Retas: inclinação, interceptos e forma",
+   "summary": "Ler uma reta a partir da equação e escrever a equação com o que foi dado.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "Quase toda questão aqui fica mais fácil na forma y = mx + b, em que m é a inclinação e b é onde a reta cruza o eixo y."
+    },
+    {
+     "kind": "rule",
+     "text": "Inclinação é a subida sobre o avanço: (y₂ − y₁) / (x₂ − x₁). É o quanto y muda quando x aumenta em um."
+    },
+    {
+     "kind": "diagram",
+     "text": "slope",
+     "answer": "Subida sobre avanço — o quanto y muda quando x sobe um."
+    },
+    {
+     "kind": "heading",
+     "text": "As três formas"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Reduzida: y = mx + b. Melhor para ler inclinação e intercepto.",
+      "Geral: Ax + By = C. Melhor para achar os dois interceptos — faça x = 0 e depois y = 0.",
+      "Ponto-inclinação: y − y₁ = m(x − x₁). Melhor quando dão um ponto e uma inclinação."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "example",
+     "text": "Uma reta passa por (2, 5) e (6, 13). Qual é a equação dela?",
+     "items": [
+      "Inclinação: (13 − 5) / (6 − 2) = 8/4 = 2.",
+      "Use um ponto: y − 5 = 2(x − 2).",
+      "Desenvolva: y = 2x + 1."
+     ],
+     "answer": "y = 2x + 1"
+    },
+    {
+     "kind": "heading",
+     "text": "Paralelas e perpendiculares"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Retas paralelas têm a mesma inclinação.",
+      "Inclinações perpendiculares multiplicam −1: uma inclinação de 3 é perpendicular a −1/3."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "heading",
+     "text": "Num problema com enunciado"
+    },
+    {
+     "kind": "paragraph",
+     "text": "A inclinação é a taxa — por hora, por item, por ano. O intercepto em y é a quantidade inicial, o valor quando nada aconteceu ainda. Nomear esses dois dentro do enunciado costuma ser a questão inteira."
+    }
+   ]
+  },
+  {
+   "id": "linear-functions",
+   "subject": "math",
+   "domain": "Algebra",
+   "skills": [
+    "Linear functions"
+   ],
+   "title": "Funções, notação e o que f(x) significa",
+   "summary": "Ler notação de função sem pânico, e o que uma função linear faz.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "f(x) não é multiplicação. É um nome para a saída quando a entrada é x. f(3) significa: coloque 3, leia a saída."
+    },
+    {
+     "kind": "rule",
+     "text": "f(3) = 7 significa que o ponto (3, 7) está no gráfico. Toda afirmação sobre uma função é uma afirmação sobre um ponto."
+    },
+    {
+     "kind": "example",
+     "text": "Se f(x) = 4x − 5, quanto vale f(x + 2)?",
+     "items": [
+      "Troque cada x por (x + 2): 4(x + 2) − 5.",
+      "Desenvolva: 4x + 8 − 5."
+     ],
+     "answer": "4x + 3"
+    },
+    {
+     "kind": "heading",
+     "text": "Lendo um gráfico"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "“f(x) = 0” pergunta onde o gráfico cruza o eixo x.",
+      "“f(0)” pergunta onde ele cruza o eixo y.",
+      "“f(a) = b” pergunta pelo ponto em que a entrada é a."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "heading",
+     "text": "Linear significa taxa constante"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Uma função linear muda a mesma quantidade a cada passo em x. Se uma tabela mostra passos iguais em x e passos iguais em y, ela é linear, e a inclinação é um passo de y sobre um passo de x."
+    },
+    {
+     "kind": "example",
+     "text": "Uma tabela mostra x = 1, 2, 3 e y = 7, 11, 15. É linear, e qual é a regra?",
+     "items": [
+      "y sobe 4 toda vez que x sobe 1 — constante, logo linear.",
+      "Inclinação 4. Em x = 1, y = 7, então b = 7 − 4 = 3."
+     ],
+     "answer": "y = 4x + 3"
+    }
+   ]
+  },
+  {
+   "id": "linear-inequalities",
+   "subject": "math",
+   "domain": "Algebra",
+   "skills": [
+    "Linear inequalities in one or two variables"
+   ],
+   "title": "Desigualdades e a região que elas descrevem",
+   "summary": "Uma regra que pega todo mundo, e como ler um gráfico sombreado.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "Desigualdades se resolvem como equações, com uma exceção sobre a qual a prova pergunta de propósito."
+    },
+    {
+     "kind": "rule",
+     "text": "Multiplique ou divida por um número negativo e o sinal inverte. Nada mais inverte."
+    },
+    {
+     "kind": "example",
+     "text": "−3x + 7 > 19",
+     "items": [
+      "Subtraia 7: −3x > 12",
+      "Divida por −3 e inverta: x < −4"
+     ],
+     "answer": "x < −4"
+    },
+    {
+     "kind": "heading",
+     "text": "Duas variáveis"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Uma desigualdade com x e y descreve uma região, não uma reta. Trace a fronteira como se fosse equação e depois decida de que lado."
+    },
+    {
+     "kind": "list",
+     "items": [
+      "y > … ou y < … — linha tracejada, a fronteira não entra.",
+      "y ≥ … ou y ≤ … — linha cheia, a fronteira entra.",
+      "y maior — sombreie acima. y menor — sombreie abaixo."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "diagram",
+     "text": "inequality-region",
+     "answer": "Fronteira tracejada, sombreado acima: y é estritamente maior, então a própria reta não faz parte da resposta."
+    },
+    {
+     "kind": "rule",
+     "text": "Se não tiver certeza do lado, teste (0, 0) na desigualdade. Verdadeiro significa que o lado da origem é sombreado."
+    },
+    {
+     "kind": "heading",
+     "text": "Em problemas com enunciado"
+    },
+    {
+     "kind": "paragraph",
+     "text": "“Pelo menos” é ≥. “No máximo” é ≤. “Mais que” e “menos que” são estritos. Um problema de orçamento é quase sempre ≤, e um de exigência quase sempre ≥."
+    }
+   ]
+  },
+  {
+   "id": "systems-linear",
+   "subject": "math",
+   "domain": "Algebra",
+   "skills": [
+    "Systems of two linear equations in two variables"
+   ],
+   "title": "Duas equações, duas incógnitas",
+   "summary": "Substituição, eliminação e o que o número de soluções diz.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "Um sistema pede o ponto que satisfaz as duas equações — onde as duas retas se cruzam."
+    },
+    {
+     "kind": "heading",
+     "text": "Eliminação"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Deixe os coeficientes de uma variável opostos e some as equações."
+    },
+    {
+     "kind": "example",
+     "text": "2x + 3y = 12 e 4x − 3y = 6",
+     "items": [
+      "Os termos em y já são opostos. Some: 6x = 18.",
+      "x = 3. Substitua na primeira: 6 + 3y = 12.",
+      "3y = 6, logo y = 2."
+     ],
+     "answer": "(3, 2)"
+    },
+    {
+     "kind": "heading",
+     "text": "Substituição"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Melhor quando uma equação já tem uma variável isolada. Isole-a e coloque na outra."
+    },
+    {
+     "kind": "heading",
+     "text": "Quantas soluções"
+    },
+    {
+     "kind": "rule",
+     "text": "Mesma inclinação, interceptos diferentes → paralelas → sem solução. Mesma inclinação, mesmo intercepto → a mesma reta → infinitas. Inclinações diferentes → exatamente uma."
+    },
+    {
+     "kind": "paragraph",
+     "text": "O SAT pergunta isso como uma questão sobre coeficientes. Escreva as duas equações como y = mx + b e compare; é mais rápido que qualquer regra de razão e mais difícil de inverter."
+    },
+    {
+     "kind": "example",
+     "text": "Para que valor de k as equações kx + 6y = 18 e 2x + 3y = 9 têm infinitas soluções?",
+     "items": [
+      "A segunda equação dobrada: 4x + 6y = 18.",
+      "Para as duas serem a mesma equação, k precisa ser 4."
+     ],
+     "answer": "k = 4"
+    }
+   ]
+  },
+  {
+   "id": "equivalent-expressions",
+   "subject": "math",
+   "domain": "Advanced Math",
+   "skills": [
+    "Equivalent expressions"
+   ],
+   "title": "Reescrever sem mudar o valor",
+   "summary": "Fatorar, desenvolver e as regras de expoentes em que a prova se apoia.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "Estas questões dão uma expressão e pedem outra forma dela. Nada é resolvido; é reescrito."
+    },
+    {
+     "kind": "heading",
+     "text": "Regras de expoentes"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "xᵃ · xᵇ = xᵃ⁺ᵇ",
+      "xᵃ / xᵇ = xᵃ⁻ᵇ",
+      "(xᵃ)ᵇ = xᵃᵇ",
+      "x⁻ᵃ = 1/xᵃ",
+      "x^(1/2) = √x, e x^(a/b) = ᵇ√(xᵃ)",
+      "x⁰ = 1 para todo x ≠ 0"
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "heading",
+     "text": "As três fatorações que vale reconhecer de cara"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "a² − b² = (a + b)(a − b) — diferença de quadrados",
+      "a² + 2ab + b² = (a + b)²",
+      "a² − 2ab + b² = (a − b)²"
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "example",
+     "text": "Simplifique (x² − 9) / (x + 3)",
+     "items": [
+      "x² − 9 é uma diferença de quadrados: (x + 3)(x − 3).",
+      "O (x + 3) se cancela."
+     ],
+     "answer": "x − 3, para x ≠ −3"
+    },
+    {
+     "kind": "rule",
+     "text": "Quando uma fração de polinômios parece feia, fatore em cima e embaixo primeiro. Quase sempre algo se cancela — foi por isso que a questão foi feita."
+    },
+    {
+     "kind": "paragraph",
+     "text": "Cuidado com o valor excluído. Cancelar (x + 3) só vale quando x ≠ −3, e às vezes a prova pergunta exatamente sobre esse ponto."
+    },
+    {
+     "kind": "heading",
+     "text": "Expoentes negativos e fracionários"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Eles aparecem mais do que a maioria espera, e são a mesma regra lida ao contrário."
+    },
+    {
+     "kind": "list",
+     "items": [
+      "x⁻² = 1/x², então um expoente negativo é um inverso, não um número negativo.",
+      "x^(3/2) = √(x³) = (√x)³ — o denominador é a raiz, o numerador é a potência.",
+      "(2x³)⁴ = 2⁴x¹² — o expoente de fora também alcança o coeficiente, que é o passo mais esquecido."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "example",
+     "text": "Simplifique (8x⁶)^(2/3)",
+     "items": [
+      "O expoente se aplica às duas partes: 8^(2/3) · x^(6 · 2/3).",
+      "8^(2/3) é a raiz cúbica de 8, ao quadrado: 2² = 4.",
+      "x⁴ da segunda parte."
+     ],
+     "answer": "4x⁴"
+    }
+   ]
+  },
+  {
+   "id": "nonlinear-equations",
+   "subject": "math",
+   "domain": "Advanced Math",
+   "skills": [
+    "Nonlinear equations in one variable and systems of equations in two variables"
+   ],
+   "title": "Quadráticas e os sistemas em que aparecem",
+   "summary": "Três formas de resolver uma quadrática, e quando cada uma é a rápida.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "Uma quadrática tem x² e nenhuma potência maior. São três caminhos, e escolher bem economiza um minuto."
+    },
+    {
+     "kind": "heading",
+     "text": "Fatorar — tente primeiro"
+    },
+    {
+     "kind": "example",
+     "text": "x² − 7x + 12 = 0",
+     "items": [
+      "Dois números que multiplicam 12 e somam −7: −3 e −4.",
+      "(x − 3)(x − 4) = 0",
+      "Um produto é zero quando um fator é zero."
+     ],
+     "answer": "x = 3 ou x = 4"
+    },
+    {
+     "kind": "heading",
+     "text": "A fórmula — funciona sempre"
+    },
+    {
+     "kind": "rule",
+     "text": "x = (−b ± √(b² − 4ac)) / 2a, para ax² + bx + c = 0."
+    },
+    {
+     "kind": "paragraph",
+     "text": "O que está sob a raiz, b² − 4ac, é o discriminante, e o SAT pergunta sobre ele diretamente: positivo significa duas soluções reais, zero significa exatamente uma, negativo significa nenhuma."
+    },
+    {
+     "kind": "heading",
+     "text": "Completar quadrados — quando você precisa do vértice"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Reescrever como y = a(x − h)² + k dá o vértice (h, k) direto, que é o que as questões de “valor mínimo” e “valor máximo” realmente pedem."
+    },
+    {
+     "kind": "heading",
+     "text": "Sistemas não lineares"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Uma reta e uma parábola se encontram onde os valores de y coincidem. Iguale as duas expressões e resolva a quadrática resultante. O número de soluções é o número de cruzamentos, e “a reta é tangente à curva” significa que o discriminante é zero."
+    },
+    {
+     "kind": "example",
+     "text": "y = x² e y = 2x + 3 — onde elas se encontram?",
+     "items": [
+      "x² = 2x + 3",
+      "x² − 2x − 3 = 0",
+      "(x − 3)(x + 1) = 0",
+      "x = 3 ou x = −1; então y = 9 e y = 1."
+     ],
+     "answer": "(3, 9) e (−1, 1)"
+    }
+   ]
+  },
+  {
+   "id": "nonlinear-functions",
+   "subject": "math",
+   "domain": "Advanced Math",
+   "skills": [
+    "Nonlinear functions"
+   ],
+   "title": "Parábolas, exponenciais e as formas que fazem",
+   "summary": "Ler uma curva a partir da equação, e distinguir crescimento de decaimento.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "A maior habilidade de Matemática no banco. Quase tudo é saber qual forma de uma equação dá qual fato."
+    },
+    {
+     "kind": "heading",
+     "text": "Quadráticas: três formas, três fatos"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Geral, y = ax² + bx + c — c é o intercepto em y.",
+      "Fatorada, y = a(x − p)(x − q) — p e q são os interceptos em x.",
+      "De vértice, y = a(x − h)² + k — (h, k) é o vértice, o máximo ou o mínimo."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "rule",
+     "text": "a positivo abre para cima e tem mínimo. a negativo abre para baixo e tem máximo. O eixo de simetria passa pelo vértice em x = h."
+    },
+    {
+     "kind": "diagram",
+     "text": "parabola",
+     "answer": "O vértice fica no meio do caminho entre os dois interceptos em x, o que muitas vezes é a rota mais rápida até ele."
+    },
+    {
+     "kind": "paragraph",
+     "text": "O vértice fica no meio do caminho entre os dois interceptos em x, o que muitas vezes é a rota mais rápida até ele."
+    },
+    {
+     "kind": "heading",
+     "text": "Funções exponenciais"
+    },
+    {
+     "kind": "paragraph",
+     "text": "y = a · bˣ multiplica por b cada vez que x sobe um, em vez de somar. a é o valor inicial."
+    },
+    {
+     "kind": "list",
+     "items": [
+      "b > 1 — crescimento. b = 1,05 é um aumento de 5% por passo.",
+      "0 < b < 1 — decaimento. b = 0,85 é uma queda de 15% por passo."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "rule",
+     "text": "Linear soma a mesma quantidade a cada passo; exponencial multiplica pelo mesmo fator. Uma tabela com **razão** constante entre linhas é exponencial, não linear."
+    },
+    {
+     "kind": "example",
+     "text": "Uma população de 200 cresce 8% ao ano. Escreva como função de t anos.",
+     "items": [
+      "Valor inicial 200.",
+      "Multiplique por 1,08 a cada ano."
+     ],
+     "answer": "P(t) = 200(1,08)ᵗ"
+    },
+    {
+     "kind": "diagram",
+     "text": "linear-vs-exponential",
+     "answer": "No começo os passos são iguais; depois, nem de longe. Uma tabela com razão constante entre linhas é a exponencial."
+    }
+   ]
+  },
+  {
+   "id": "percentages",
+   "subject": "math",
+   "domain": "Problem-Solving and Data Analysis",
+   "skills": [
+    "Percentages"
+   ],
+   "title": "Porcentagem, aumento e redução",
+   "summary": "Uma equação cobre quase tudo, e um erro explica quase todas as falhas.",
+   "blocks": [
+    {
+     "kind": "rule",
+     "text": "“É” significa igual, “de” significa multiplicar, “quanto” é a incógnita. Traduza a frase direto para uma equação."
+    },
+    {
+     "kind": "example",
+     "text": "18 é quantos por cento de 40?",
+     "items": [
+      "18 = (p/100) × 40",
+      "18/40 = 0,45"
+     ],
+     "answer": "45%"
+    },
+    {
+     "kind": "heading",
+     "text": "Aumento e redução"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Sobe 20% → multiplique por 1,20",
+      "Cai 20% → multiplique por 0,80",
+      "Sobe 20% e depois cai 20% → × 1,2 × 0,8 = 0,96, ou seja 4% **abaixo** do início"
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "paragraph",
+     "text": "Essa última linha é a armadilha que o SAT mais arma. Mudanças percentuais sucessivas se multiplicam; nunca se somam."
+    },
+    {
+     "kind": "heading",
+     "text": "Variação percentual"
+    },
+    {
+     "kind": "rule",
+     "text": "Variação percentual = (novo − velho) / velho × 100. O denominador é sempre o ponto de partida."
+    },
+    {
+     "kind": "example",
+     "text": "Um preço cai de 80 para 60. Qual é a redução percentual?",
+     "items": [
+      "Variação: 60 − 80 = −20.",
+      "Divida pelo original: −20/80 = −0,25."
+     ],
+     "answer": "Uma redução de 25%"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Ir de 80 a 60 é uma queda de 25%, mas de 60 a 80 é uma alta de 33%. Não é o mesmo número, porque o ponto de partida mudou."
+    },
+    {
+     "kind": "heading",
+     "text": "Trabalhando de trás para frente a partir de um total"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Um preço depois de uma alta de 20% é 1,2 vezes o original — então para voltar ao original divide-se por 1,2, nunca se subtrai 20%."
+    },
+    {
+     "kind": "example",
+     "text": "Uma jaqueta custa 96 depois de um desconto de 20%. Qual era o preço original?",
+     "items": [
+      "Um desconto de 20% significa que o preço é 0,8 do original.",
+      "0,8 × original = 96.",
+      "original = 96 ÷ 0,8."
+     ],
+     "answer": "120. Somar 20% a 96 daria 115,20, que é a resposta errada mais comum: os 20% foram descontados do preço original, não de 96."
+    }
+   ]
+  },
+  {
+   "id": "ratios-rates",
+   "subject": "math",
+   "domain": "Problem-Solving and Data Analysis",
+   "skills": [
+    "Ratios, rates, proportional relationships, and units"
+   ],
+   "title": "Razões, taxas e manter as unidades em ordem",
+   "summary": "Monte uma proporção, cancele as unidades e deixe as unidades conferirem sua resposta.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "Coloque a mesma grandeza no mesmo lugar dos dois lados de uma proporção e quase tudo isto se resolve sozinho."
+    },
+    {
+     "kind": "example",
+     "text": "Uma máquina enche 240 garrafas em 8 minutos. Quanto tempo para 900?",
+     "items": [
+      "240/8 = 900/t",
+      "240t = 7200"
+     ],
+     "answer": "t = 30 minutos"
+    },
+    {
+     "kind": "heading",
+     "text": "Conversão de unidades por cancelamento"
+    },
+    {
+     "kind": "rule",
+     "text": "Escreva cada conversão como fração com a unidade que você quer em cima e a que está removendo embaixo. Cancele até sobrar só a unidade desejada."
+    },
+    {
+     "kind": "example",
+     "text": "Converta 90 quilômetros por hora em metros por segundo.",
+     "items": [
+      "90 km/h × 1000 m/km = 90 000 m/h",
+      "÷ 3600 s/h"
+     ],
+     "answer": "25 m/s"
+    },
+    {
+     "kind": "heading",
+     "text": "A unidade como conferência"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Se as unidades da sua resposta não são as que a questão pediu, a conta está errada por mais limpa que pareça. Acompanhe-as até o fim — isso pega mais erros do que reconferir os números."
+    },
+    {
+     "kind": "heading",
+     "text": "Razões com um total"
+    },
+    {
+     "kind": "example",
+     "text": "Duas quantidades estão na razão 3 : 5 e somam 96. Ache cada uma.",
+     "items": [
+      "3 + 5 = 8 partes.",
+      "96 ÷ 8 = 12 por parte."
+     ],
+     "answer": "36 e 60"
+    }
+   ]
+  },
+  {
+   "id": "one-variable-data",
+   "subject": "math",
+   "domain": "Problem-Solving and Data Analysis",
+   "skills": [
+    "One-variable data: Distributions and measures of center and spread"
+   ],
+   "title": "Média, mediana e o que um valor atípico faz com cada uma",
+   "summary": "Qual medida de centro a questão quer, e por que essa distinção é a questão.",
+   "blocks": [
+    {
+     "kind": "list",
+     "items": [
+      "Média — some e divida. Todo valor puxa por ela.",
+      "Mediana — o valor do meio depois de ordenar. Só a posição importa.",
+      "Moda — o valor mais frequente.",
+      "Amplitude — o maior menos o menor.",
+      "Desvio padrão — o quanto os valores estão espalhados, não onde estão."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "rule",
+     "text": "Um valor atípico move a média e mal toca a mediana. Essa única frase responde à maioria das questões desta habilidade."
+    },
+    {
+     "kind": "diagram",
+     "text": "outlier-number-line",
+     "answer": "Os mesmos quatro salários sozinhos e depois com 300 ao lado. Um valor arrasta a média de 33 para 86,4, para além de quatro dos cinco; a mediana vai de 33 para 34."
+    },
+    {
+     "kind": "example",
+     "text": "Salários: 30, 32, 34, 36, 300 (mil). Que medida descreve melhor este grupo?",
+     "items": [
+      "Média = 86,4 — maior que quatro dos cinco valores.",
+      "Mediana = 34 — no meio do agrupamento."
+     ],
+     "answer": "A mediana. Um valor grande arrastou a média para longe de todo mundo."
+    },
+    {
+     "kind": "heading",
+     "text": "Desvio padrão sem calcular"
+    },
+    {
+     "kind": "paragraph",
+     "text": "O SAT nunca pede para calcular, só para comparar. Valores bem agrupados → pequeno. Valores espalhados → grande. Somar a mesma quantidade a todos os valores move a média e deixa a dispersão igual."
+    },
+    {
+     "kind": "heading",
+     "text": "Lendo um histograma"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Ache a mediana contando de uma ponta até passar metade do total, e não procurando a barra mais alta — a barra mais alta é a moda."
+    }
+   ]
+  },
+  {
+   "id": "two-variable-data",
+   "subject": "math",
+   "domain": "Problem-Solving and Data Analysis",
+   "skills": [
+    "Two-variable data: Models and scatterplots"
+   ],
+   "title": "Diagramas de dispersão e retas de ajuste",
+   "summary": "Ler uma tendência, usar o modelo e saber onde ele deixa de ser confiável.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "Um diagrama de dispersão mostra pares de valores. Uma reta ou curva de ajuste resume a tendência, e as questões são sobre como lê-la."
+    },
+    {
+     "kind": "heading",
+     "text": "O que a reta diz"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "A inclinação é a taxa — quanto y muda por unidade de x, nas unidades dos eixos.",
+      "O intercepto em y é o valor previsto quando x é zero, o que às vezes não faz sentido no contexto, e a prova sabe disso.",
+      "Um ponto acima da reta significa que o modelo subestimou aquele caso."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "diagram",
+     "text": "scatter-fit",
+     "answer": "Um ponto acima da reta é um caso que o modelo subestimou."
+    },
+    {
+     "kind": "rule",
+     "text": "Leia os rótulos dos dois eixos e suas unidades antes de qualquer coisa. Metade das alternativas erradas aqui são números certos com unidades erradas."
+    },
+    {
+     "kind": "heading",
+     "text": "Interpolação e extrapolação"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Prever dentro do intervalo dos dados é razoável. Prever bem fora dele não é, e uma questão sobre se uma previsão é confiável costuma perguntar exatamente isso."
+    },
+    {
+     "kind": "heading",
+     "text": "Associação não é causa"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Uma tendência forte em dados observacionais não prova que uma coisa causa a outra. Uma alternativa que afirme causa só a partir de um diagrama de dispersão está errada — veja o artigo sobre afirmações estatísticas."
+    },
+    {
+     "kind": "example",
+     "text": "Uma reta de ajuste é y = 2,5x + 12, em que x são horas de estudo e y é a nota.",
+     "items": [
+      "Inclinação 2,5: uma hora a mais está associada a cerca de 2,5 pontos a mais.",
+      "Intercepto 12: a nota prevista sem estudo."
+     ],
+     "answer": "“Associada a”, não “causa”."
+    }
+   ]
+  },
+  {
+   "id": "probability",
+   "subject": "math",
+   "domain": "Problem-Solving and Data Analysis",
+   "skills": [
+    "Probability and conditional probability"
+   ],
+   "title": "Probabilidade a partir de uma tabela",
+   "summary": "Contar os dois números certos — e o que o “dado que” muda.",
+   "blocks": [
+    {
+     "kind": "rule",
+     "text": "Probabilidade = número de casos desejados ÷ número total de casos. A habilidade inteira é decidir qual é o total."
+    },
+    {
+     "kind": "heading",
+     "text": "Tabelas de dupla entrada"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Quase toda questão de probabilidade do SAT é uma tabela com totais de linha e coluna. A questão diz qual total usar."
+    },
+    {
+     "kind": "list",
+     "items": [
+      "“Qual é a probabilidade de uma pessoa escolhida ao acaso ser X?” — divida pelo total geral.",
+      "“…dado que a pessoa é Y?” — divida só pelo total da linha ou coluna de Y.",
+      "“Das pessoas que são Y, que fração é X?” — a mesma coisa com outras palavras."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "example",
+     "text": "De 200 pessoas, 120 são estudantes; 45 dos estudantes vão a pé. Qual é a probabilidade de uma pessoa ir a pé, dado que é estudante?",
+     "items": [
+      "“Dado que é estudante” restringe o grupo a 120.",
+      "45 desses 120 vão a pé."
+     ],
+     "answer": "45/120 = 0,375"
+    },
+    {
+     "kind": "rule",
+     "text": "“Dado que” é uma instrução para encolher o denominador. Se você dividiu pelo total geral, respondeu outra pergunta."
+    },
+    {
+     "kind": "paragraph",
+     "text": "Veja se a questão quer fração, decimal ou porcentagem, e dê nessa forma."
+    }
+   ]
+  },
+  {
+   "id": "statistical-claims",
+   "subject": "math",
+   "domain": "Problem-Solving and Data Analysis",
+   "skills": [
+    "Evaluating statistical claims: Observational studies and experiments",
+    "Inference from sample statistics and margin of error"
+   ],
+   "title": "O que um estudo pode concluir",
+   "summary": "Amostragem aleatória, alocação aleatória e as duas palavras que decidem a resposta.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "Duas características de um estudo decidem o que ele pode afirmar, e o SAT testa exatamente essa distinção."
+    },
+    {
+     "kind": "rule",
+     "text": "**Amostragem aleatória** permite generalizar para a população. **Alocação aleatória** permite afirmar causa. São coisas diferentes e você precisa das duas para as duas."
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Amostragem aleatória sem alocação aleatória → dá para generalizar, mas só uma associação.",
+      "Alocação aleatória sem amostragem aleatória → dá para afirmar causa, mas só para pessoas como os participantes.",
+      "Nenhuma das duas → o resultado descreve os participantes e mais ninguém.",
+      "As duas → generalize e afirme causa."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "example",
+     "text": "Voluntários que já se exercitavam foram entrevistados e relataram dormir melhor.",
+     "items": [
+      "Sem amostragem aleatória — voluntários que já se exercitavam.",
+      "Sem alocação aleatória — ninguém foi colocado em grupos."
+     ],
+     "answer": "O estudo pode relatar uma associação entre esses voluntários. Não pode dizer que exercício causa dormir melhor, nem generalizar."
+    },
+    {
+     "kind": "heading",
+     "text": "Margem de erro"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Uma margem de erro dá um intervalo plausível: 48% com margem de 3 é aproximadamente de 45% a 51%. O SAT pergunta duas coisas sobre isso."
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Uma amostra maior dá uma margem de erro menor.",
+      "Se os intervalos de duas estimativas se sobrepõem, os dados não estabelecem diferença entre elas."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "rule",
+     "text": "Nunca leia uma margem de erro como “o valor verdadeiro está com certeza dentro”. É um intervalo plausível, não uma garantia."
+    }
+   ]
+  },
+  {
+   "id": "lines-angles-triangles",
+   "subject": "math",
+   "domain": "Geometry and Trigonometry",
+   "skills": [
+    "Lines, angles, and triangles"
+   ],
+   "title": "Ângulos e triângulos semelhantes",
+   "summary": "Os fatos sobre ângulos que vale memorizar, e o que “semelhante” permite.",
+   "blocks": [
+    {
+     "kind": "heading",
+     "text": "Ângulos"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Ângulos sobre uma reta somam 180°.",
+      "Ângulos em volta de um ponto somam 360°.",
+      "Ângulos opostos pelo vértice, onde duas retas se cruzam, são iguais.",
+      "Retas paralelas cortadas por uma terceira: ângulos correspondentes e alternos são iguais; os do mesmo lado somam 180°."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "diagram",
+     "text": "transversal",
+     "answer": "Duas paralelas cortadas por uma terceira reta. Cada ângulo da figura é a ou b, e a + b = 180°."
+    },
+    {
+     "kind": "heading",
+     "text": "Triângulos"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Os três ângulos somam 180°.",
+      "Um ângulo externo é igual à soma dos dois internos não adjacentes.",
+      "Isósceles: dois lados iguais opostos a dois ângulos iguais — e o inverso.",
+      "O lado mais longo fica oposto ao maior ângulo."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "heading",
+     "text": "Triângulos semelhantes"
+    },
+    {
+     "kind": "rule",
+     "text": "Triângulos semelhantes têm ângulos iguais e lados proporcionais. Dois ângulos iguais bastam para provar a semelhança — o terceiro decorre."
+    },
+    {
+     "kind": "paragraph",
+     "text": "A semelhança é a ferramenta principal aqui. Uma vez que você sabe que dois triângulos são semelhantes, cada par de lados correspondentes tem a mesma razão, e a questão vira uma proporção."
+    },
+    {
+     "kind": "example",
+     "text": "Dois triângulos semelhantes: o menor tem lados 3 e 4; o primeiro lado correspondente do maior é 9. Ache o segundo.",
+     "items": [
+      "Fator de escala: 9/3 = 3.",
+      "4 × 3 = 12."
+     ],
+     "answer": "12"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Cuidado com a área: se os lados escalam por 3, a área escala por 3² = 9."
+    },
+    {
+     "kind": "diagram",
+     "text": "similar-triangles",
+     "answer": "Os lados escalam por 3, então a área escala por 3² = 9. Essa segunda parte é o que a questão costuma estar realmente pedindo."
+    }
+   ]
+  },
+  {
+   "id": "right-triangles",
+   "subject": "math",
+   "domain": "Geometry and Trigonometry",
+   "skills": [
+    "Right triangles and trigonometry"
+   ],
+   "title": "Triângulos retângulos e trigonometria",
+   "summary": "Pitágoras, os dois triângulos que se repetem, e o que seno e cosseno realmente são.",
+   "blocks": [
+    {
+     "kind": "rule",
+     "text": "a² + b² = c², em que c é a hipotenusa — o lado oposto ao ângulo reto, sempre o mais longo."
+    },
+    {
+     "kind": "heading",
+     "text": "Dois triângulos que vale reconhecer de cara"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "45–45–90: lados na razão 1 : 1 : √2.",
+      "30–60–90: lados na razão 1 : √3 : 2, com o mais curto oposto ao de 30°."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "diagram",
+     "text": "special-right-triangles",
+     "answer": "Os dois estão na folha de referência que você recebe, mas reconhecê-los evita ter que olhar — e evita a conta inteira."
+    },
+    {
+     "kind": "paragraph",
+     "text": "Vale reconhecer também 3–4–5 e 5–12–13, e seus múltiplos. Enxergar um deles poupa a conta inteira."
+    },
+    {
+     "kind": "heading",
+     "text": "Trigonometria"
+    },
+    {
+     "kind": "rule",
+     "text": "sen = oposto / hipotenusa. cos = adjacente / hipotenusa. tan = oposto / adjacente. Em relação ao ângulo com que você está trabalhando."
+    },
+    {
+     "kind": "example",
+     "text": "Um triângulo retângulo tem hipotenusa 10 e um ângulo de 30°. Ache o cateto oposto.",
+     "items": [
+      "sen 30° = oposto / 10",
+      "sen 30° = 0,5",
+      "oposto = 10 × 0,5"
+     ],
+     "answer": "5"
+    },
+    {
+     "kind": "heading",
+     "text": "A identidade de que o SAT gosta"
+    },
+    {
+     "kind": "paragraph",
+     "text": "sen(x) = cos(90° − x). Os dois ângulos agudos de um triângulo retângulo somam 90°, então o seno de um é o cosseno do outro — é só isso, e as questões baseadas nela parecem mais difíceis do que são."
+    }
+   ]
+  },
+  {
+   "id": "circles",
+   "subject": "math",
+   "domain": "Geometry and Trigonometry",
+   "skills": [
+    "Circles"
+   ],
+   "title": "Circunferências: equações, arcos e área",
+   "summary": "A equação da circunferência, radianos e as duas proporções de que sai o resto.",
+   "blocks": [
+    {
+     "kind": "rule",
+     "text": "Uma circunferência de centro (h, k) e raio r: (x − h)² + (y − k)² = r²."
+    },
+    {
+     "kind": "paragraph",
+     "text": "Quando a questão dá a equação desenvolvida, complete o quadrado em x e em y para voltar a esta forma. O centro e o raio então se leem direto."
+    },
+    {
+     "kind": "heading",
+     "text": "Arcos e setores"
+    },
+    {
+     "kind": "rule",
+     "text": "Um arco ou setor é a mesma fração da circunferência que o ângulo dele é da volta inteira."
+    },
+    {
+     "kind": "diagram",
+     "text": "circle-sector",
+     "answer": "Um setor é a mesma fração do círculo que o ângulo dele é da volta inteira. Todo o resto aqui decorre disso."
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Comprimento de arco = (ângulo / 360°) × 2πr",
+      "Área do setor = (ângulo / 360°) × πr²"
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "example",
+     "text": "Uma circunferência de raio 6 tem um setor com ângulo de 60°. Ache a área dele.",
+     "items": [
+      "60/360 = 1/6 do círculo.",
+      "Área total = π × 36 = 36π."
+     ],
+     "answer": "6π"
+    },
+    {
+     "kind": "heading",
+     "text": "Radianos"
+    },
+    {
+     "kind": "rule",
+     "text": "Uma volta inteira é 360° ou 2π radianos. Para converter, multiplique por π/180 indo para radianos, ou por 180/π voltando."
+    },
+    {
+     "kind": "list",
+     "items": [
+      "90° = π/2",
+      "180° = π",
+      "60° = π/3",
+      "45° = π/4"
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "paragraph",
+     "text": "Em radianos as fórmulas ficam mais simples: o comprimento de arco é rθ e a área do setor é ½r²θ."
+    }
+   ]
+  },
+  {
+   "id": "area-volume",
+   "subject": "math",
+   "domain": "Geometry and Trigonometry",
+   "skills": [
+    "Area and volume"
+   ],
+   "title": "Área, volume e o que a escala faz",
+   "summary": "As fórmulas que são dadas, as que não são, e a regra de escala.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "O SAT digital fornece uma folha de referência com fórmulas básicas de geometria — este aplicativo também tem uma. O que ela não dá é o julgamento de qual usar."
+    },
+    {
+     "kind": "heading",
+     "text": "Vale saber sem consultar"
+    },
+    {
+     "kind": "list",
+     "items": [
+      "Retângulo: comprimento × largura. Triângulo: ½ × base × altura.",
+      "Círculo: área πr², circunferência 2πr.",
+      "Trapézio: ½ × (a + b) × altura.",
+      "Prisma ou cilindro: área da base × altura.",
+      "Cone ou pirâmide: ⅓ × área da base × altura — é o terço que se esquece.",
+      "Esfera: volume (4/3)πr³, área da superfície 4πr²."
+     ],
+     "ordered": false
+    },
+    {
+     "kind": "heading",
+     "text": "A regra de escala"
+    },
+    {
+     "kind": "rule",
+     "text": "Multiplique todos os comprimentos por k e as áreas se multiplicam por k², os volumes por k³."
+    },
+    {
+     "kind": "example",
+     "text": "O raio de um cilindro é dobrado e a altura fica igual. O que acontece com o volume?",
+     "items": [
+      "Volume é πr²h.",
+      "Dobrar r entra ao quadrado: (2r)² = 4r²."
+     ],
+     "answer": "Fica quatro vezes maior."
+    },
+    {
+     "kind": "heading",
+     "text": "Figuras compostas"
+    },
+    {
+     "kind": "paragraph",
+     "text": "Divida a figura em pedaços que você conhece, ou ache o todo e subtraia o buraco. Quase toda questão difícil desta habilidade é um desses dois movimentos."
+    },
+    {
+     "kind": "paragraph",
+     "text": "Confira as unidades: área vem em unidades quadradas e volume em cúbicas, e uma questão que dá comprimentos em centímetros e pede litros testa a conversão tanto quanto a fórmula."
+    },
+    {
+     "kind": "heading",
+     "text": "O que é dado, e o que não é"
+    },
+    {
+     "kind": "paragraph",
+     "text": "A folha de referência do SAT digital traz a geometria: as áreas de um retângulo, um triângulo e um círculo, a circunferência, os volumes de uma caixa, um cilindro, uma esfera, um cone e uma pirâmide, o teorema de Pitágoras, os dois triângulos especiais e os três fatos de que um círculo tem 360° ou 2π radianos e que os ângulos de um triângulo somam 180°."
+    },
+    {
+     "kind": "rule",
+     "text": "Tudo o que não está na folha é você quem tem de lembrar: a inclinação, a fórmula de Bhaskara, a forma de vértice, as regras de expoentes, o crescimento e decaimento exponencial, a variação percentual, a equação da circunferência, o comprimento de arco, a área do setor e as razões trigonométricas."
+    }
+   ]
+  },
+  {
+   "id": "reference-sheet",
+   "subject": "math",
+   "domain": "Geometry and Trigonometry",
+   "skills": [
+    "Area and volume",
+    "Circles",
+    "Right triangles and trigonometry"
+   ],
+   "title": "A folha de referência, e o que ela não vai fazer por você",
+   "summary": "O que a folha dá, o que não dá, e como parar de perder tempo com ela.",
+   "blocks": [
+    {
+     "kind": "paragraph",
+     "text": "Todo módulo de Matemática vem com uma folha de referência, e é sempre a mesma folha. Não é prêmio nem segredo: ela está lá desde a primeira questão, na prova real e neste aplicativo, em **Referência**, no alto da tela. Ninguém conta quantas vezes você a abre."
+    },
+    {
+     "kind": "paragraph",
+     "text": "Ela serve **para** as fórmulas que são chatas de lembrar e fáceis de errar por pouco: o volume de um cone, os dois triângulos retângulos especiais, quantos graus tem um círculo. Ela não serve para dizer qual fórmula esta questão quer. Essa parte é sua, e é justamente a que está sendo avaliada."
+    },
+    {
+     "kind": "heading",
+     "text": "É isto tudo"
+    },
+    {
+     "kind": "diagram",
+     "text": "reference-sheet",
+     "answer": "A folha como o aplicativo a mostra. Onze figuras e três fatos — é tudo o que você recebe."
+    },
+    {
+     "kind": "heading",
+     "text": "O que tem nela"
+    },
+    {
+     "kind": "list",
+     "ordered": false,
+     "items": [
+      "Áreas: círculo, retângulo, triângulo.",
+      "O teorema de Pitágoras e os dois triângulos retângulos especiais — 30-60-90 e 45-45-90.",
+      "Volumes: caixa retangular, cilindro, esfera, cone, pirâmide.",
+      "Três fatos em palavras: 360 graus em um círculo, 2π radianos em um círculo, 180 graus em um triângulo."
+     ]
+    },
+    {
+     "kind": "heading",
+     "text": "O que não tem"
+    },
+    {
+     "kind": "list",
+     "ordered": false,
+     "items": [
+      "A inclinação e a equação da reta em qualquer uma de suas formas.",
+      "A fórmula de Bhaskara e tudo sobre fatoração.",
+      "A equação da circunferência no plano xy.",
+      "SOHCAHTOA — a folha desenha um triângulo, mas não nomeia as razões.",
+      "Porcentagens, médias, regras de expoentes e todas as identidades algébricas.",
+      "Comprimento de arco e área do setor — você recebe o círculo, não a fatia."
+     ]
+    },
+    {
+     "kind": "rule",
+     "text": "Se uma fórmula não está na folha, a prova está dizendo que espera que você a saiba. A lista acima é curta. Aprenda-a e a folha vira uma conveniência, não um salva-vidas."
+    },
+    {
+     "kind": "heading",
+     "text": "Usar sem perder tempo"
+    },
+    {
+     "kind": "list",
+     "ordered": false,
+     "items": [
+      "Abra uma vez, antes de precisar, e veja onde cada coisa está. Uma folha que você nunca leu é uma folha que você vai procurar com o relógio correndo.",
+      "Vá até ela pelos volumes e pelos triângulos especiais. É nisso que ela é boa.",
+      "Se você a abre pela inclinação ou pela fórmula de Bhaskara, isso é uma lacuna a fechar antes da prova, não um hábito a criar.",
+      "Cada segundo na folha é um segundo fora da questão. Duas ou três visitas por módulo é normal; dez é um sinal."
+     ]
+    },
+    {
+     "kind": "example",
+     "text": "Um setor de um círculo tem ângulo central de 60° e raio 6. Qual é a sua área?",
+     "items": [
+      "A folha dá a área do círculo inteiro: πr² = 36π.",
+      "A folha não dá a área do setor — mas diz que um círculo tem 360°.",
+      "60° é a sexta parte de 360°, então o setor é a sexta parte do círculo.",
+      "36π ÷ 6 = 6π."
+     ],
+     "answer": "6π. A folha forneceu um dos dois fatos; o outro veio de saber o que é um setor."
+    },
+    {
+     "kind": "paragraph",
+     "text": "É essa a forma de quase toda questão de folha de referência: a folha tem uma peça e você tem o resto. Lê-la agora, com calma, é a preparação mais barata deste aplicativo inteiro."
+    }
+   ]
+  }
+ ]
+}
